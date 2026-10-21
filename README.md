@@ -7,6 +7,8 @@ journey through Japan, with a spaced-repetition engine underneath.
     kotoba review       # straight into what's due
     kotoba progress     # progress and exam pacing
 
+![A review session: kana and kanji cards, with one unknown card shown and planted rather than marked wrong](docs/demo.gif)
+
 ## Installing
 
 Not on the AUR yet. Until then:
