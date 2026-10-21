@@ -182,7 +182,7 @@ for _k, _r in _K2R.items():
     if _r and _r[-1] in "aiueo":
         _VOWEL_OF[_k] = _KANA_VOWEL[_r[-1]]
 
-_STRIP = str.maketrans("", "", " \t　.,!?'\"-–—·/()[]。、！？「」")
+_STRIP = str.maketrans("", "", " \t　.,!?'\"-–—·/()[]。、！？「」〜～")
 
 
 def katakana_to_hiragana(text: str) -> str:

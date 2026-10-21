@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "kotoba-no-tabi"
-version = "0.1.0"
+version = "0.2.0"
 description = "言葉の旅 — a terminal adventure for learning Japanese to JLPT N5"
 readme = "README.md"
 license = "MIT"

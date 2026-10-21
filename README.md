@@ -33,10 +33,10 @@ that one gets taught rather than waved through.
 | | |
 |---|---|
 | kana | 208 (hiragana + katakana, with mnemonics for the confusable pairs) |
-| vocabulary | 274 words, weighted to nouns and verbs |
+| vocabulary | 707 words — the full JLPT N5 list, including counters and dates |
 | kanji | 117, with 186 example words |
-| grammar | 42 points, 91 drill sentences |
-| **cards** | **1,195** |
+| grammar | 72 points, 166 drill sentences |
+| **cards** | **2,203** |
 
 Each word becomes several cards, because recognising 食べる and producing it
 from "to eat" are different skills, and the ます-form is a third.

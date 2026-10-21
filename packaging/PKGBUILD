@@ -1,7 +1,7 @@
 # Maintainer: Andy Draper <6471505+Draper1@users.noreply.github.com>
 pkgname=kotoba-no-tabi
 _pkgname=kotoba
-pkgver=0.1.0
+pkgver=0.2.0
 pkgrel=1
 pkgdesc="言葉の旅 — a terminal adventure for learning Japanese to JLPT N5"
 arch=('any')

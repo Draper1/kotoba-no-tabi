@@ -1137,6 +1137,917 @@
     }
    ],
    "seq": 41
+  },
+  {
+   "id": "g:desu_neg",
+   "title": "〜じゃありません — noun negative",
+   "unit": 1,
+   "form": "Noun + じゃありません／ではありません",
+   "note": "The polite 'is not' for nouns and な-adjectives. じゃ is the spoken form of では.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "私は学生＿。(am not)",
+     "answers": [
+      "じゃありません",
+      "ではありません",
+      "じゃないです",
+      "ではないです"
+     ],
+     "en": "I am not a student."
+    },
+    {
+     "jp": "これは本＿。(is not)",
+     "answers": [
+      "じゃありません",
+      "ではありません",
+      "じゃないです",
+      "ではないです"
+     ],
+     "en": "This is not a book."
+    }
+   ],
+   "seq": 42
+  },
+  {
+   "id": "g:deshita",
+   "title": "〜でした — noun past",
+   "unit": 7,
+   "form": "Noun + でした ／ じゃありませんでした",
+   "note": "Nouns and な-adjectives take でした in the past. い-adjectives never do.",
+   "contrast": "楽しいでした is impossible: い-adjectives take かった (楽しかったです).",
+   "drills": [
+    {
+     "jp": "昨日は雨＿。",
+     "answers": [
+      "でした"
+     ],
+     "en": "Yesterday it was rainy."
+    },
+    {
+     "jp": "先生は日本人＿。(was not)",
+     "answers": [
+      "じゃありませんでした",
+      "ではありませんでした",
+      "じゃなかったです"
+     ],
+     "en": "The teacher was not Japanese."
+    }
+   ],
+   "seq": 43
+  },
+  {
+   "id": "g:to_iimasu",
+   "title": "〜と言います — is called",
+   "unit": 1,
+   "form": "Name + と言います",
+   "note": "と marks what is said, or what something is called.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "私は田中＿言います。",
+     "answers": [
+      "と"
+     ],
+     "en": "My name is Tanaka."
+    },
+    {
+     "jp": "これは日本語で何＿言いますか。",
+     "answers": [
+      "と"
+     ],
+     "en": "What is this called in Japanese?"
+    }
+   ],
+   "seq": 44
+  },
+  {
+   "id": "g:hoshii",
+   "title": "〜が欲しいです — want (a thing)",
+   "unit": 4,
+   "form": "Noun が 欲しいです",
+   "note": "欲しい is an い-adjective, so what you want takes が. For wanting to DO something use 〜たい.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "新しいかばん＿欲しいです。",
+     "answers": [
+      "が"
+     ],
+     "en": "I want a new bag."
+    },
+    {
+     "jp": "欲しい → 車は＿です。(don't want)",
+     "answers": [
+      "欲しくない",
+      "ほしくない"
+     ],
+     "en": "I don't want a car."
+    }
+   ],
+   "seq": 45
+  },
+  {
+   "id": "g:ni_purpose",
+   "title": "〜に行きます — go in order to",
+   "unit": 3,
+   "form": "Verb stem + に + 行きます／来ます",
+   "note": "The ます-stem plus に gives the purpose of going somewhere: 食べに行く = go to eat.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → すしを＿に行きます。",
+     "answers": [
+      "食べ",
+      "たべ"
+     ],
+     "en": "I'm going to eat sushi."
+    },
+    {
+     "jp": "買う → パンを買い＿行きました。",
+     "answers": [
+      "に"
+     ],
+     "en": "I went to buy bread."
+    }
+   ],
+   "seq": 46
+  },
+  {
+   "id": "g:kara_because",
+   "title": "〜から — because",
+   "unit": 5,
+   "form": "Reason + から、result",
+   "note": "The reason comes first, then から, then what follows from it. Polite forms are fine before から.",
+   "contrast": "This から is a conjunction. The particle から (from) sits after a noun: 九時から.",
+   "drills": [
+    {
+     "jp": "寒いです＿、窓を閉めます。",
+     "answers": [
+      "から"
+     ],
+     "en": "It's cold, so I'll close the window."
+    },
+    {
+     "jp": "時間がない＿、タクシーで行きます。",
+     "answers": [
+      "から",
+      "ので"
+     ],
+     "en": "I have no time, so I'll go by taxi."
+    }
+   ],
+   "seq": 47
+  },
+  {
+   "id": "g:ga_but",
+   "title": "〜が／〜けど — but",
+   "unit": 5,
+   "form": "Sentence が、sentence",
+   "note": "が joins two clauses as 'but'. けど is the casual version.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "高いです＿、買います。",
+     "answers": [
+      "が",
+      "けど"
+     ],
+     "en": "It's expensive, but I'll buy it."
+    },
+    {
+     "jp": "日本語は難しいです＿、面白いです。",
+     "answers": [
+      "が",
+      "けど"
+     ],
+     "en": "Japanese is difficult, but interesting."
+    }
+   ],
+   "seq": 48
+  },
+  {
+   "id": "g:mashouka",
+   "title": "〜ましょうか — shall I?",
+   "unit": 8,
+   "form": "Verb stem + ましょうか",
+   "note": "Offers help ('shall I...?') or makes a suggestion ('shall we...?').",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "持つ → 荷物を＿か。",
+     "answers": [
+      "持ちましょう",
+      "もちましょう"
+     ],
+     "en": "Shall I carry your luggage?"
+    },
+    {
+     "jp": "開ける → 窓を＿か。",
+     "answers": [
+      "開けましょう",
+      "あけましょう"
+     ],
+     "en": "Shall I open the window?"
+    }
+   ],
+   "seq": 49
+  },
+  {
+   "id": "g:nagara",
+   "title": "〜ながら — while doing",
+   "unit": 5,
+   "form": "Verb stem + ながら",
+   "note": "Two actions by the same person at the same time. The main action comes last.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "音楽を聞き＿勉強します。",
+     "answers": [
+      "ながら"
+     ],
+     "en": "I study while listening to music."
+    },
+    {
+     "jp": "食べる → ＿ながらテレビを見ます。",
+     "answers": [
+      "食べ",
+      "たべ"
+     ],
+     "en": "I watch TV while eating."
+    }
+   ],
+   "seq": 50
+  },
+  {
+   "id": "g:mae_ato",
+   "title": "〜前に／〜後で — before / after",
+   "unit": 2,
+   "form": "Dictionary form + 前に ／ た-form + 後で",
+   "note": "前に takes the dictionary form, 後で takes the た-form. After a noun both use の: 食事の前に.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "寝る＿に歯を磨きます。",
+     "answers": [
+      "前",
+      "まえ"
+     ],
+     "en": "I brush my teeth before going to bed."
+    },
+    {
+     "jp": "食べた＿で散歩します。",
+     "answers": [
+      "後",
+      "あと"
+     ],
+     "en": "I take a walk after eating."
+    },
+    {
+     "jp": "授業＿前に先生と話しました。",
+     "answers": [
+      "の"
+     ],
+     "en": "I talked to the teacher before class."
+    }
+   ],
+   "seq": 51
+  },
+  {
+   "id": "g:te_kara",
+   "title": "〜てから — after doing",
+   "unit": 8,
+   "form": "て-form + から",
+   "note": "The second action follows the first.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "洗う → 手を＿から食べます。",
+     "answers": [
+      "洗って",
+      "あらって"
+     ],
+     "en": "I eat after washing my hands."
+    },
+    {
+     "jp": "宿題をして＿遊びます。",
+     "answers": [
+      "から"
+     ],
+     "en": "I play after doing my homework."
+    }
+   ],
+   "seq": 52
+  },
+  {
+   "id": "g:toki",
+   "title": "〜とき — when",
+   "unit": 7,
+   "form": "Plain form ／ Noun の + とき",
+   "note": "Marks the time something happens. Nouns take の: 子供のとき.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "子供の＿、よく泳ぎました。",
+     "answers": [
+      "とき",
+      "時"
+     ],
+     "en": "When I was a child, I often swam."
+    },
+    {
+     "jp": "暇な＿、本を読みます。",
+     "answers": [
+      "とき",
+      "時"
+     ],
+     "en": "When I'm free, I read books."
+    }
+   ],
+   "seq": 53
+  },
+  {
+   "id": "g:dict_form",
+   "title": "Dictionary form — from ます back to plain",
+   "unit": 5,
+   "form": "〜ます → dictionary form",
+   "note": "う-verbs: the い-row kana goes back to its う-row (飲みます→飲む, 買います→買う). る-verbs: ます→る. します→する, 来ます→来る.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "飲みます → ＿",
+     "answers": [
+      "飲む",
+      "のむ"
+     ],
+     "en": "to drink"
+    },
+    {
+     "jp": "買います → ＿",
+     "answers": [
+      "買う",
+      "かう"
+     ],
+     "en": "to buy"
+    },
+    {
+     "jp": "見ます → ＿",
+     "answers": [
+      "見る",
+      "みる"
+     ],
+     "en": "to see"
+    },
+    {
+     "jp": "します → ＿",
+     "answers": [
+      "する"
+     ],
+     "en": "to do"
+    },
+    {
+     "jp": "来ます → ＿",
+     "answers": [
+      "来る",
+      "くる"
+     ],
+     "en": "to come"
+    }
+   ],
+   "seq": 54
+  },
+  {
+   "id": "g:ta_form",
+   "title": "た-form — plain past",
+   "unit": 7,
+   "form": "Same changes as the て-form, ending in た／だ",
+   "note": "う-verbs: う/つ/る→った, む/ぶ/ぬ→んだ, く→いた, ぐ→いだ, す→した. る-verbs: drop る, add た. する→した, 来る→来た, 行く→行った.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → ＿",
+     "answers": [
+      "食べた",
+      "たべた"
+     ],
+     "en": "ate"
+    },
+    {
+     "jp": "飲む → ＿",
+     "answers": [
+      "飲んだ",
+      "のんだ"
+     ],
+     "en": "drank"
+    },
+    {
+     "jp": "書く → ＿",
+     "answers": [
+      "書いた",
+      "かいた"
+     ],
+     "en": "wrote"
+    },
+    {
+     "jp": "行く → ＿",
+     "answers": [
+      "行った",
+      "いった"
+     ],
+     "en": "went (irregular!)"
+    },
+    {
+     "jp": "来る → ＿",
+     "answers": [
+      "来た",
+      "きた"
+     ],
+     "en": "came"
+    }
+   ],
+   "seq": 55
+  },
+  {
+   "id": "g:nakatta",
+   "title": "〜なかった — plain past negative",
+   "unit": 8,
+   "form": "ない-form, ない → なかった",
+   "note": "Make the ない-form, then swap ない for なかった. The polite equivalent is 〜ませんでした.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 朝ご飯を＿。(didn't eat)",
+     "answers": [
+      "食べなかった",
+      "たべなかった"
+     ],
+     "en": "I didn't eat breakfast."
+    },
+    {
+     "jp": "行く → ＿。(didn't go)",
+     "answers": [
+      "行かなかった",
+      "いかなかった"
+     ],
+     "en": "I didn't go."
+    }
+   ],
+   "seq": 56
+  },
+  {
+   "id": "g:nakereba",
+   "title": "〜なければなりません／〜なくてもいいです — must / need not",
+   "unit": 8,
+   "form": "ない-form minus い + ければなりません ／ くてもいいです",
+   "note": "Drop the final い of the ない-form: 行かない → 行かなければなりません (must go), 行かなくてもいいです (need not go).",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "行く → 明日学校へ＿なりません。",
+     "answers": [
+      "行かなければ",
+      "いかなければ"
+     ],
+     "en": "I must go to school tomorrow."
+    },
+    {
+     "jp": "来る → 日曜日は＿。(don't have to come)",
+     "answers": [
+      "来なくてもいいです",
+      "こなくてもいいです"
+     ],
+     "en": "You don't have to come on Sunday."
+    }
+   ],
+   "seq": 57
+  },
+  {
+   "id": "g:narimasu",
+   "title": "〜くなります／〜になります — to become",
+   "unit": 7,
+   "form": "い-adj minus い + く ／ な-adj・noun + に + なります",
+   "note": "Adjectives and nouns express a change of state with なる.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "暑い → ＿なります。",
+     "answers": [
+      "暑く",
+      "あつく"
+     ],
+     "en": "It gets hot."
+    },
+    {
+     "jp": "医者 → 医者＿なります。",
+     "answers": [
+      "に"
+     ],
+     "en": "I'll become a doctor."
+    },
+    {
+     "jp": "静か → 静か＿なりました。",
+     "answers": [
+      "に"
+     ],
+     "en": "It became quiet."
+    }
+   ],
+   "seq": 58
+  },
+  {
+   "id": "g:adverbs",
+   "title": "〜く／〜に — adverbs from adjectives",
+   "unit": 7,
+   "form": "い-adj minus い + く ／ な-adj + に",
+   "note": "早い → 早く (early), 静か → 静かに (quietly). The adverb goes before the verb.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "早い → 毎朝＿起きます。",
+     "answers": [
+      "早く",
+      "はやく"
+     ],
+     "en": "I get up early every morning."
+    },
+    {
+     "jp": "静か → ＿してください。",
+     "answers": [
+      "静かに",
+      "しずかに"
+     ],
+     "en": "Please be quiet."
+    }
+   ],
+   "seq": 59
+  },
+  {
+   "id": "g:deshou",
+   "title": "〜でしょう — probably",
+   "unit": 7,
+   "form": "Plain form ／ Noun + でしょう",
+   "note": "A guess about something you can't be sure of, such as tomorrow's weather.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "明日は雨＿。(probably)",
+     "answers": [
+      "でしょう"
+     ],
+     "en": "It will probably rain tomorrow."
+    },
+    {
+     "jp": "田中さんは来る＿。(probably)",
+     "answers": [
+      "でしょう"
+     ],
+     "en": "Tanaka will probably come."
+    }
+   ],
+   "seq": 60
+  },
+  {
+   "id": "g:dake_shika",
+   "title": "〜だけ／〜しか〜ない — only",
+   "unit": 4,
+   "form": "Noun + だけ ／ Noun + しか + negative",
+   "note": "だけ is neutral. しか REQUIRES a negative verb and feels like 'nothing but'.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "千円＿あります。",
+     "answers": [
+      "だけ"
+     ],
+     "en": "I have only 1,000 yen."
+    },
+    {
+     "jp": "千円＿ありません。",
+     "answers": [
+      "しか"
+     ],
+     "en": "I have no more than 1,000 yen."
+    },
+    {
+     "jp": "日本語＿分かりません。(only Japanese)",
+     "answers": [
+      "しか"
+     ],
+     "en": "I only understand Japanese."
+    }
+   ],
+   "seq": 61
+  },
+  {
+   "id": "g:goro_gurai",
+   "title": "〜ごろ／〜ぐらい — around / about",
+   "unit": 2,
+   "form": "Time + ごろ ／ Amount + ぐらい",
+   "note": "ごろ is for points in time (三時ごろ). ぐらい／くらい is for amounts (三時間ぐらい, 千円ぐらい).",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "七時＿起きます。",
+     "answers": [
+      "ごろ",
+      "頃"
+     ],
+     "en": "I get up around seven."
+    },
+    {
+     "jp": "駅まで二十分＿かかります。",
+     "answers": [
+      "ぐらい",
+      "くらい"
+     ],
+     "en": "It takes about twenty minutes to the station."
+    }
+   ],
+   "seq": 62
+  },
+  {
+   "id": "g:te_sequence",
+   "title": "〜て、〜て — and then",
+   "unit": 8,
+   "form": "て-form, て-form, final verb",
+   "note": "Chains actions in order. Only the last verb carries the tense.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "起きる → 七時に＿、朝ご飯を食べました。",
+     "answers": [
+      "起きて",
+      "おきて"
+     ],
+     "en": "I got up at seven and ate breakfast."
+    },
+    {
+     "jp": "行く → 駅へ＿、電車に乗ります。",
+     "answers": [
+      "行って",
+      "いって"
+     ],
+     "en": "I go to the station and get on the train."
+    }
+   ],
+   "seq": 63
+  },
+  {
+   "id": "g:no_nominaliser",
+   "title": "〜のが好きです — nominaliser の",
+   "unit": 8,
+   "form": "Dictionary form + の + が 好きです／上手です",
+   "note": "の turns a verb into a noun phrase so it can take が.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "泳ぐ＿が好きです。",
+     "answers": [
+      "の"
+     ],
+     "en": "I like swimming."
+    },
+    {
+     "jp": "歌う → ＿のが上手です。",
+     "answers": [
+      "歌う",
+      "うたう"
+     ],
+     "en": "He is good at singing."
+    }
+   ],
+   "seq": 64
+  },
+  {
+   "id": "g:counters",
+   "title": "Counters",
+   "unit": 4,
+   "form": "Number + counter",
+   "note": "〜つ general things (ひとつ、ふたつ、みっつ…), 〜人 people (ひとり、ふたり、さんにん), 〜枚 flat things, 〜本 long things, 〜冊 books, 〜匹 small animals, 〜台 machines, 〜回 times.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "りんごを三＿買いました。",
+     "answers": [
+      "つ"
+     ],
+     "en": "I bought three apples."
+    },
+    {
+     "jp": "本を二＿読みました。",
+     "answers": [
+      "冊",
+      "さつ"
+     ],
+     "en": "I read two books."
+    },
+    {
+     "jp": "猫が三＿います。",
+     "answers": [
+      "匹",
+      "ひき"
+     ],
+     "en": "There are three cats."
+    },
+    {
+     "jp": "切手を五＿ください。",
+     "answers": [
+      "枚",
+      "まい"
+     ],
+     "en": "Five stamps, please."
+    },
+    {
+     "jp": "学生が＿います。(two)",
+     "answers": [
+      "二人",
+      "ふたり"
+     ],
+     "en": "There are two students."
+    }
+   ],
+   "seq": 65
+  },
+  {
+   "id": "g:ichiban",
+   "title": "〜が一番〜 / どちらが — superlative and comparison questions",
+   "unit": 7,
+   "form": "〜の中で A が一番 adj ／ A と B と どちらが adj",
+   "note": "一番 makes the superlative. To compare two things, ask AとBとどちらが.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "果物の中で何＿一番好きですか。",
+     "answers": [
+      "が"
+     ],
+     "en": "Which fruit do you like best?"
+    },
+    {
+     "jp": "クラスで田中さんが＿背が高いです。",
+     "answers": [
+      "一番",
+      "いちばん"
+     ],
+     "en": "Tanaka is the tallest in the class."
+    },
+    {
+     "jp": "お茶とコーヒーと＿が好きですか。",
+     "answers": [
+      "どちら",
+      "どっち"
+     ],
+     "en": "Which do you prefer, tea or coffee?"
+    }
+   ],
+   "seq": 66
+  },
+  {
+   "id": "g:nani_mo",
+   "title": "何も／誰も／どこも — nothing / nobody / nowhere",
+   "unit": 5,
+   "form": "Question word + も + negative",
+   "note": "With a negative verb, question word + も means 'none at all'.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "今朝は何＿食べませんでした。",
+     "answers": [
+      "も"
+     ],
+     "en": "I didn't eat anything this morning."
+    },
+    {
+     "jp": "部屋に誰＿いません。",
+     "answers": [
+      "も"
+     ],
+     "en": "There is nobody in the room."
+    },
+    {
+     "jp": "日曜日はどこ＿行きませんでした。",
+     "answers": [
+      "も",
+      "へも",
+      "にも"
+     ],
+     "en": "I didn't go anywhere on Sunday."
+    }
+   ],
+   "seq": 67
+  },
+  {
+   "id": "g:ka_or",
+   "title": "か — or / something",
+   "unit": 3,
+   "form": "Noun か Noun ／ 何か・誰か・どこか",
+   "note": "Between nouns, か means 'or'. After a question word it makes 'some-': 何か something, 誰か someone, どこか somewhere.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "お茶＿コーヒー、どちらがいいですか。",
+     "answers": [
+      "か"
+     ],
+     "en": "Tea or coffee, which would you like?"
+    },
+    {
+     "jp": "何＿食べましたか。(something)",
+     "answers": [
+      "か"
+     ],
+     "en": "Did you eat something?"
+    }
+   ],
+   "seq": 68
+  },
+  {
+   "id": "g:te_imasu_state",
+   "title": "〜ています — resulting states",
+   "unit": 6,
+   "form": "て-form + います",
+   "note": "Besides ongoing actions, ています describes a state that continues: 住んでいます (live), 知っています (know), 結婚しています (am married).",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "住む → 東京に＿。",
+     "answers": [
+      "住んでいます",
+      "すんでいます"
+     ],
+     "en": "I live in Tokyo."
+    },
+    {
+     "jp": "知る → その人を＿。",
+     "answers": [
+      "知っています",
+      "しっています"
+     ],
+     "en": "I know that person."
+    },
+    {
+     "jp": "結婚する → 姉は＿。",
+     "answers": [
+      "結婚しています",
+      "けっこんしています"
+     ],
+     "en": "My older sister is married."
+    }
+   ],
+   "seq": 69
+  },
+  {
+   "id": "g:ni_frequency",
+   "title": "〜に〜回 — frequency",
+   "unit": 2,
+   "form": "Period + に + number + 回",
+   "note": "一週間に二回 = twice a week.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "一週間＿二回日本語を勉強します。",
+     "answers": [
+      "に"
+     ],
+     "en": "I study Japanese twice a week."
+    },
+    {
+     "jp": "一日に三＿歯を磨きます。",
+     "answers": [
+      "回",
+      "かい",
+      "度",
+      "ど"
+     ],
+     "en": "I brush my teeth three times a day."
+    }
+   ],
+   "seq": 70
+  },
+  {
+   "id": "g:wa_ga",
+   "title": "〜は〜が — topic and feature",
+   "unit": 8,
+   "form": "Topic は feature が adjective",
+   "note": "Describes a part or quality of the topic: 妹は目が大きいです.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "妹は目＿大きいです。",
+     "answers": [
+      "が"
+     ],
+     "en": "My little sister has big eyes."
+    },
+    {
+     "jp": "私＿頭が痛いです。",
+     "answers": [
+      "は"
+     ],
+     "en": "I have a headache."
+    }
+   ],
+   "seq": 71
   }
  ]
 }
