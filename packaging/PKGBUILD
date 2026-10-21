@@ -13,7 +13,7 @@ checkdepends=()
 # Installs /usr/bin/kotoba, as does the unrelated GNOME dictionary package.
 conflicts=('kotoba')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha256sums=('SKIP')
+sha256sums=('55b6ee30b68e0d02c9f78a1c38cb1871674ccbd7507d06d78ac907f390e3f3b4')
 
 build() {
     cd "$pkgname-$pkgver"
