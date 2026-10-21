@@ -7,6 +7,21 @@ journey through Japan, with a spaced-repetition engine underneath.
     kotoba review       # straight into what's due
     kotoba progress     # progress and exam pacing
 
+## Installing
+
+Not on the AUR yet. Until then:
+
+**Arch** — build from the PKGBUILD in this repo:
+
+    git clone https://github.com/Draper1/kotoba-no-tabi.git
+    cd kotoba-no-tabi/packaging && makepkg -si
+
+**Anywhere else** — Python 3.11+, one dependency (`rich`):
+
+    pipx install git+https://github.com/Draper1/kotoba-no-tabi.git
+
+Or `pip install --user .` from a clone, if you'd rather skip pipx.
+
 ## The one rule
 
 Nothing here is ever marked wrong. A card you don't get is one you haven't

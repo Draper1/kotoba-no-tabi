@@ -6,3 +6,4 @@ packaging/*.pkg.tar.zst
 packaging/src/
 packaging/pkg/
 dist/
+packaging/*.tar.gz
