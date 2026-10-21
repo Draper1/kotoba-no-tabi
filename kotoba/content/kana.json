@@ -1,0 +1,2152 @@
+{
+ "hiragana": [
+  {
+   "id": "kana:h:あ",
+   "char": "あ",
+   "romaji": "a",
+   "script": "hiragana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 0,
+   "mnemonic": "An 'A' with a curl — say ah."
+  },
+  {
+   "id": "kana:h:い",
+   "char": "い",
+   "romaji": "i",
+   "script": "hiragana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 1,
+   "mnemonic": "Two strokes, like the two dots on 'ii'."
+  },
+  {
+   "id": "kana:h:う",
+   "char": "う",
+   "romaji": "u",
+   "script": "hiragana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 2,
+   "mnemonic": "A nose in profile going 'ooh'."
+  },
+  {
+   "id": "kana:h:え",
+   "char": "え",
+   "romaji": "e",
+   "script": "hiragana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 3,
+   "mnemonic": "An energetic figure with a raised arm."
+  },
+  {
+   "id": "kana:h:お",
+   "char": "お",
+   "romaji": "o",
+   "script": "hiragana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 4,
+   "mnemonic": "Like あ but with a tail — an 'oh' of surprise."
+  },
+  {
+   "id": "kana:h:か",
+   "char": "か",
+   "romaji": "ka",
+   "script": "hiragana",
+   "group": "k",
+   "tier": 1,
+   "order": 5,
+   "mnemonic": "A person kicking — ka!"
+  },
+  {
+   "id": "kana:h:き",
+   "char": "き",
+   "romaji": "ki",
+   "script": "hiragana",
+   "group": "k",
+   "tier": 1,
+   "order": 6,
+   "mnemonic": "A key with two teeth."
+  },
+  {
+   "id": "kana:h:く",
+   "char": "く",
+   "romaji": "ku",
+   "script": "hiragana",
+   "group": "k",
+   "tier": 1,
+   "order": 7,
+   "mnemonic": "A cuckoo's beak."
+  },
+  {
+   "id": "kana:h:け",
+   "char": "け",
+   "romaji": "ke",
+   "script": "hiragana",
+   "group": "k",
+   "tier": 1,
+   "order": 8,
+   "mnemonic": "A keg on its side."
+  },
+  {
+   "id": "kana:h:こ",
+   "char": "こ",
+   "romaji": "ko",
+   "script": "hiragana",
+   "group": "k",
+   "tier": 1,
+   "order": 9,
+   "mnemonic": "Two curved lines, like a 'co'rner."
+  },
+  {
+   "id": "kana:h:さ",
+   "char": "さ",
+   "romaji": "sa",
+   "script": "hiragana",
+   "group": "s",
+   "tier": 1,
+   "order": 10,
+   "mnemonic": "Almost き mirrored — sa."
+  },
+  {
+   "id": "kana:h:し",
+   "char": "し",
+   "romaji": "shi",
+   "script": "hiragana",
+   "group": "s",
+   "tier": 1,
+   "order": 11,
+   "mnemonic": "A single hook, like a fishing line — shi."
+  },
+  {
+   "id": "kana:h:す",
+   "char": "す",
+   "romaji": "su",
+   "script": "hiragana",
+   "group": "s",
+   "tier": 1,
+   "order": 12,
+   "mnemonic": "A swirl on a stick — su."
+  },
+  {
+   "id": "kana:h:せ",
+   "char": "せ",
+   "romaji": "se",
+   "script": "hiragana",
+   "group": "s",
+   "tier": 1,
+   "order": 13,
+   "mnemonic": "A person sitting at a desk."
+  },
+  {
+   "id": "kana:h:そ",
+   "char": "そ",
+   "romaji": "so",
+   "script": "hiragana",
+   "group": "s",
+   "tier": 1,
+   "order": 14,
+   "mnemonic": "A zigzag, like sewing."
+  },
+  {
+   "id": "kana:h:た",
+   "char": "た",
+   "romaji": "ta",
+   "script": "hiragana",
+   "group": "t",
+   "tier": 1,
+   "order": 15,
+   "mnemonic": "A 'ta' made of た-shaped blocks."
+  },
+  {
+   "id": "kana:h:ち",
+   "char": "ち",
+   "romaji": "chi",
+   "script": "hiragana",
+   "group": "t",
+   "tier": 1,
+   "order": 16,
+   "mnemonic": "A chair facing left — chi."
+  },
+  {
+   "id": "kana:h:つ",
+   "char": "つ",
+   "romaji": "tsu",
+   "script": "hiragana",
+   "group": "t",
+   "tier": 1,
+   "order": 17,
+   "mnemonic": "A tsunami curl."
+  },
+  {
+   "id": "kana:h:て",
+   "char": "て",
+   "romaji": "te",
+   "script": "hiragana",
+   "group": "t",
+   "tier": 1,
+   "order": 18,
+   "mnemonic": "A hand reaching out — te means hand."
+  },
+  {
+   "id": "kana:h:と",
+   "char": "と",
+   "romaji": "to",
+   "script": "hiragana",
+   "group": "t",
+   "tier": 1,
+   "order": 19,
+   "mnemonic": "A toe with a pin in it."
+  },
+  {
+   "id": "kana:h:な",
+   "char": "な",
+   "romaji": "na",
+   "script": "hiragana",
+   "group": "n",
+   "tier": 1,
+   "order": 20,
+   "mnemonic": "A nun kneeling."
+  },
+  {
+   "id": "kana:h:に",
+   "char": "に",
+   "romaji": "ni",
+   "script": "hiragana",
+   "group": "n",
+   "tier": 1,
+   "order": 21,
+   "mnemonic": "Two knees together."
+  },
+  {
+   "id": "kana:h:ぬ",
+   "char": "ぬ",
+   "romaji": "nu",
+   "script": "hiragana",
+   "group": "n",
+   "tier": 1,
+   "order": 22,
+   "mnemonic": "Noodles with a loop — nu."
+  },
+  {
+   "id": "kana:h:ね",
+   "char": "ね",
+   "romaji": "ne",
+   "script": "hiragana",
+   "group": "n",
+   "tier": 1,
+   "order": 23,
+   "mnemonic": "A cat's tail curling — neko."
+  },
+  {
+   "id": "kana:h:の",
+   "char": "の",
+   "romaji": "no",
+   "script": "hiragana",
+   "group": "n",
+   "tier": 1,
+   "order": 24,
+   "mnemonic": "A 'no entry' spiral."
+  },
+  {
+   "id": "kana:h:は",
+   "char": "は",
+   "romaji": "ha",
+   "script": "hiragana",
+   "group": "h",
+   "tier": 1,
+   "order": 25,
+   "mnemonic": "A ladder with a person — ha!"
+  },
+  {
+   "id": "kana:h:ひ",
+   "char": "ひ",
+   "romaji": "hi",
+   "script": "hiragana",
+   "group": "h",
+   "tier": 1,
+   "order": 26,
+   "mnemonic": "A wide smile — hee."
+  },
+  {
+   "id": "kana:h:ふ",
+   "char": "ふ",
+   "romaji": "fu",
+   "script": "hiragana",
+   "group": "h",
+   "tier": 1,
+   "order": 27,
+   "mnemonic": "Mount Fuji seen sideways."
+  },
+  {
+   "id": "kana:h:へ",
+   "char": "へ",
+   "romaji": "he",
+   "script": "hiragana",
+   "group": "h",
+   "tier": 1,
+   "order": 28,
+   "mnemonic": "A gentle hill — he."
+  },
+  {
+   "id": "kana:h:ほ",
+   "char": "ほ",
+   "romaji": "ho",
+   "script": "hiragana",
+   "group": "h",
+   "tier": 1,
+   "order": 29,
+   "mnemonic": "は with an extra bar — ho."
+  },
+  {
+   "id": "kana:h:ま",
+   "char": "ま",
+   "romaji": "ma",
+   "script": "hiragana",
+   "group": "m",
+   "tier": 1,
+   "order": 30,
+   "mnemonic": "A ball of yarn — ma."
+  },
+  {
+   "id": "kana:h:み",
+   "char": "み",
+   "romaji": "mi",
+   "script": "hiragana",
+   "group": "m",
+   "tier": 1,
+   "order": 31,
+   "mnemonic": "A '21' shape — mi."
+  },
+  {
+   "id": "kana:h:む",
+   "char": "む",
+   "romaji": "mu",
+   "script": "hiragana",
+   "group": "m",
+   "tier": 1,
+   "order": 32,
+   "mnemonic": "A cow's face going muu."
+  },
+  {
+   "id": "kana:h:め",
+   "char": "め",
+   "romaji": "me",
+   "script": "hiragana",
+   "group": "m",
+   "tier": 1,
+   "order": 33,
+   "mnemonic": "An eye with a lash — me means eye."
+  },
+  {
+   "id": "kana:h:も",
+   "char": "も",
+   "romaji": "mo",
+   "script": "hiragana",
+   "group": "m",
+   "tier": 1,
+   "order": 34,
+   "mnemonic": "A fishing hook with two bars."
+  },
+  {
+   "id": "kana:h:や",
+   "char": "や",
+   "romaji": "ya",
+   "script": "hiragana",
+   "group": "y",
+   "tier": 1,
+   "order": 35,
+   "mnemonic": "A yacht's sail."
+  },
+  {
+   "id": "kana:h:ゆ",
+   "char": "ゆ",
+   "romaji": "yu",
+   "script": "hiragana",
+   "group": "y",
+   "tier": 1,
+   "order": 36,
+   "mnemonic": "A unique fish shape."
+  },
+  {
+   "id": "kana:h:よ",
+   "char": "よ",
+   "romaji": "yo",
+   "script": "hiragana",
+   "group": "y",
+   "tier": 1,
+   "order": 37,
+   "mnemonic": "A yo-yo on a string."
+  },
+  {
+   "id": "kana:h:ら",
+   "char": "ら",
+   "romaji": "ra",
+   "script": "hiragana",
+   "group": "r",
+   "tier": 1,
+   "order": 38,
+   "mnemonic": "A person leaning back — ra."
+  },
+  {
+   "id": "kana:h:り",
+   "char": "り",
+   "romaji": "ri",
+   "script": "hiragana",
+   "group": "r",
+   "tier": 1,
+   "order": 39,
+   "mnemonic": "Two strokes, like ri."
+  },
+  {
+   "id": "kana:h:る",
+   "char": "る",
+   "romaji": "ru",
+   "script": "hiragana",
+   "group": "r",
+   "tier": 1,
+   "order": 40,
+   "mnemonic": "A loop at the bottom."
+  },
+  {
+   "id": "kana:h:れ",
+   "char": "れ",
+   "romaji": "re",
+   "script": "hiragana",
+   "group": "r",
+   "tier": 1,
+   "order": 41,
+   "mnemonic": "Like る but the tail flicks out."
+  },
+  {
+   "id": "kana:h:ろ",
+   "char": "ろ",
+   "romaji": "ro",
+   "script": "hiragana",
+   "group": "r",
+   "tier": 1,
+   "order": 42,
+   "mnemonic": "る without the loop — ro."
+  },
+  {
+   "id": "kana:h:わ",
+   "char": "わ",
+   "romaji": "wa",
+   "script": "hiragana",
+   "group": "w",
+   "tier": 1,
+   "order": 43,
+   "mnemonic": "Like ね but the tail is straight — wa."
+  },
+  {
+   "id": "kana:h:を",
+   "char": "を",
+   "romaji": "wo",
+   "script": "hiragana",
+   "group": "w",
+   "tier": 1,
+   "order": 44,
+   "mnemonic": "A person throwing — the object particle."
+  },
+  {
+   "id": "kana:h:ん",
+   "char": "ん",
+   "romaji": "n",
+   "script": "hiragana",
+   "group": "n-final",
+   "tier": 1,
+   "order": 45,
+   "mnemonic": "A single lazy 'n' squiggle."
+  },
+  {
+   "id": "kana:h:が",
+   "char": "が",
+   "romaji": "ga",
+   "script": "hiragana",
+   "group": "g",
+   "tier": 2,
+   "order": 46,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぎ",
+   "char": "ぎ",
+   "romaji": "gi",
+   "script": "hiragana",
+   "group": "g",
+   "tier": 2,
+   "order": 47,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぐ",
+   "char": "ぐ",
+   "romaji": "gu",
+   "script": "hiragana",
+   "group": "g",
+   "tier": 2,
+   "order": 48,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:げ",
+   "char": "げ",
+   "romaji": "ge",
+   "script": "hiragana",
+   "group": "g",
+   "tier": 2,
+   "order": 49,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ご",
+   "char": "ご",
+   "romaji": "go",
+   "script": "hiragana",
+   "group": "g",
+   "tier": 2,
+   "order": 50,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ざ",
+   "char": "ざ",
+   "romaji": "za",
+   "script": "hiragana",
+   "group": "z",
+   "tier": 2,
+   "order": 51,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:じ",
+   "char": "じ",
+   "romaji": "ji",
+   "script": "hiragana",
+   "group": "z",
+   "tier": 2,
+   "order": 52,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ず",
+   "char": "ず",
+   "romaji": "zu",
+   "script": "hiragana",
+   "group": "z",
+   "tier": 2,
+   "order": 53,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぜ",
+   "char": "ぜ",
+   "romaji": "ze",
+   "script": "hiragana",
+   "group": "z",
+   "tier": 2,
+   "order": 54,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぞ",
+   "char": "ぞ",
+   "romaji": "zo",
+   "script": "hiragana",
+   "group": "z",
+   "tier": 2,
+   "order": 55,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:だ",
+   "char": "だ",
+   "romaji": "da",
+   "script": "hiragana",
+   "group": "d",
+   "tier": 2,
+   "order": 56,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぢ",
+   "char": "ぢ",
+   "romaji": "ji",
+   "script": "hiragana",
+   "group": "d",
+   "tier": 2,
+   "order": 57,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:づ",
+   "char": "づ",
+   "romaji": "zu",
+   "script": "hiragana",
+   "group": "d",
+   "tier": 2,
+   "order": 58,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:で",
+   "char": "で",
+   "romaji": "de",
+   "script": "hiragana",
+   "group": "d",
+   "tier": 2,
+   "order": 59,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ど",
+   "char": "ど",
+   "romaji": "do",
+   "script": "hiragana",
+   "group": "d",
+   "tier": 2,
+   "order": 60,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ば",
+   "char": "ば",
+   "romaji": "ba",
+   "script": "hiragana",
+   "group": "b",
+   "tier": 2,
+   "order": 61,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:び",
+   "char": "び",
+   "romaji": "bi",
+   "script": "hiragana",
+   "group": "b",
+   "tier": 2,
+   "order": 62,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぶ",
+   "char": "ぶ",
+   "romaji": "bu",
+   "script": "hiragana",
+   "group": "b",
+   "tier": 2,
+   "order": 63,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:べ",
+   "char": "べ",
+   "romaji": "be",
+   "script": "hiragana",
+   "group": "b",
+   "tier": 2,
+   "order": 64,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぼ",
+   "char": "ぼ",
+   "romaji": "bo",
+   "script": "hiragana",
+   "group": "b",
+   "tier": 2,
+   "order": 65,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぱ",
+   "char": "ぱ",
+   "romaji": "pa",
+   "script": "hiragana",
+   "group": "p",
+   "tier": 2,
+   "order": 66,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぴ",
+   "char": "ぴ",
+   "romaji": "pi",
+   "script": "hiragana",
+   "group": "p",
+   "tier": 2,
+   "order": 67,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぷ",
+   "char": "ぷ",
+   "romaji": "pu",
+   "script": "hiragana",
+   "group": "p",
+   "tier": 2,
+   "order": 68,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぺ",
+   "char": "ぺ",
+   "romaji": "pe",
+   "script": "hiragana",
+   "group": "p",
+   "tier": 2,
+   "order": 69,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぽ",
+   "char": "ぽ",
+   "romaji": "po",
+   "script": "hiragana",
+   "group": "p",
+   "tier": 2,
+   "order": 70,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:きゃ",
+   "char": "きゃ",
+   "romaji": "kya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 71,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:きゅ",
+   "char": "きゅ",
+   "romaji": "kyu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 72,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:きょ",
+   "char": "きょ",
+   "romaji": "kyo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 73,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:しゃ",
+   "char": "しゃ",
+   "romaji": "sha",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 74,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:しゅ",
+   "char": "しゅ",
+   "romaji": "shu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 75,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:しょ",
+   "char": "しょ",
+   "romaji": "sho",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 76,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ちゃ",
+   "char": "ちゃ",
+   "romaji": "cha",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 77,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ちゅ",
+   "char": "ちゅ",
+   "romaji": "chu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 78,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ちょ",
+   "char": "ちょ",
+   "romaji": "cho",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 79,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:にゃ",
+   "char": "にゃ",
+   "romaji": "nya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 80,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:にゅ",
+   "char": "にゅ",
+   "romaji": "nyu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 81,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:にょ",
+   "char": "にょ",
+   "romaji": "nyo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 82,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ひゃ",
+   "char": "ひゃ",
+   "romaji": "hya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 83,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ひゅ",
+   "char": "ひゅ",
+   "romaji": "hyu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 84,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ひょ",
+   "char": "ひょ",
+   "romaji": "hyo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 85,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:みゃ",
+   "char": "みゃ",
+   "romaji": "mya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 86,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:みゅ",
+   "char": "みゅ",
+   "romaji": "myu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 87,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:みょ",
+   "char": "みょ",
+   "romaji": "myo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 88,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:りゃ",
+   "char": "りゃ",
+   "romaji": "rya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 89,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:りゅ",
+   "char": "りゅ",
+   "romaji": "ryu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 90,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:りょ",
+   "char": "りょ",
+   "romaji": "ryo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 91,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぎゃ",
+   "char": "ぎゃ",
+   "romaji": "gya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 92,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぎゅ",
+   "char": "ぎゅ",
+   "romaji": "gyu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 93,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぎょ",
+   "char": "ぎょ",
+   "romaji": "gyo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 94,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:じゃ",
+   "char": "じゃ",
+   "romaji": "ja",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 95,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:じゅ",
+   "char": "じゅ",
+   "romaji": "ju",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 96,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:じょ",
+   "char": "じょ",
+   "romaji": "jo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 97,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:びゃ",
+   "char": "びゃ",
+   "romaji": "bya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 98,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:びゅ",
+   "char": "びゅ",
+   "romaji": "byu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 99,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:びょ",
+   "char": "びょ",
+   "romaji": "byo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 100,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぴゃ",
+   "char": "ぴゃ",
+   "romaji": "pya",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 101,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぴゅ",
+   "char": "ぴゅ",
+   "romaji": "pyu",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 102,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:h:ぴょ",
+   "char": "ぴょ",
+   "romaji": "pyo",
+   "script": "hiragana",
+   "group": "youon",
+   "tier": 3,
+   "order": 103,
+   "mnemonic": ""
+  }
+ ],
+ "katakana": [
+  {
+   "id": "kana:k:ア",
+   "char": "ア",
+   "romaji": "a",
+   "script": "katakana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 0,
+   "mnemonic": "An 'A' with a slash."
+  },
+  {
+   "id": "kana:k:イ",
+   "char": "イ",
+   "romaji": "i",
+   "script": "katakana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 1,
+   "mnemonic": "Two strokes leaning — like the 'i' in easel."
+  },
+  {
+   "id": "kana:k:ウ",
+   "char": "ウ",
+   "romaji": "u",
+   "script": "katakana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 2,
+   "mnemonic": "A house roof — 'ooh, a house'."
+  },
+  {
+   "id": "kana:k:エ",
+   "char": "エ",
+   "romaji": "e",
+   "script": "katakana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 3,
+   "mnemonic": "An 'E' rotated, like a girder."
+  },
+  {
+   "id": "kana:k:オ",
+   "char": "オ",
+   "romaji": "o",
+   "script": "katakana",
+   "group": "vowels",
+   "tier": 1,
+   "order": 4,
+   "mnemonic": "A person striking an 'oh!' pose."
+  },
+  {
+   "id": "kana:k:カ",
+   "char": "カ",
+   "romaji": "ka",
+   "script": "katakana",
+   "group": "k",
+   "tier": 1,
+   "order": 5,
+   "mnemonic": "Same shape as か, minus the loop."
+  },
+  {
+   "id": "kana:k:キ",
+   "char": "キ",
+   "romaji": "ki",
+   "script": "katakana",
+   "group": "k",
+   "tier": 1,
+   "order": 6,
+   "mnemonic": "A key, same as き without the curve."
+  },
+  {
+   "id": "kana:k:ク",
+   "char": "ク",
+   "romaji": "ku",
+   "script": "katakana",
+   "group": "k",
+   "tier": 1,
+   "order": 7,
+   "mnemonic": "A beak — compare ワ, which is rounder and wider."
+  },
+  {
+   "id": "kana:k:ケ",
+   "char": "ケ",
+   "romaji": "ke",
+   "script": "katakana",
+   "group": "k",
+   "tier": 1,
+   "order": 8,
+   "mnemonic": "A keg, angular."
+  },
+  {
+   "id": "kana:k:コ",
+   "char": "コ",
+   "romaji": "ko",
+   "script": "katakana",
+   "group": "k",
+   "tier": 1,
+   "order": 9,
+   "mnemonic": "A square corner — co."
+  },
+  {
+   "id": "kana:k:サ",
+   "char": "サ",
+   "romaji": "sa",
+   "script": "katakana",
+   "group": "s",
+   "tier": 1,
+   "order": 10,
+   "mnemonic": "Like さ chopped square."
+  },
+  {
+   "id": "kana:k:シ",
+   "char": "シ",
+   "romaji": "shi",
+   "script": "katakana",
+   "group": "s",
+   "tier": 1,
+   "order": 11,
+   "mnemonic": "Three strokes sweeping UP from the left — 'she' is smiling. Compare ツ."
+  },
+  {
+   "id": "kana:k:ス",
+   "char": "ス",
+   "romaji": "su",
+   "script": "katakana",
+   "group": "s",
+   "tier": 1,
+   "order": 12,
+   "mnemonic": "A swoop down — compare ヌ, which has a crossbar."
+  },
+  {
+   "id": "kana:k:セ",
+   "char": "セ",
+   "romaji": "se",
+   "script": "katakana",
+   "group": "s",
+   "tier": 1,
+   "order": 13,
+   "mnemonic": "Angular せ."
+  },
+  {
+   "id": "kana:k:ソ",
+   "char": "ソ",
+   "romaji": "so",
+   "script": "katakana",
+   "group": "s",
+   "tier": 1,
+   "order": 14,
+   "mnemonic": "One stroke down-left — compare ン, which sweeps up."
+  },
+  {
+   "id": "kana:k:タ",
+   "char": "タ",
+   "romaji": "ta",
+   "script": "katakana",
+   "group": "t",
+   "tier": 1,
+   "order": 15,
+   "mnemonic": "A tag with a corner cut."
+  },
+  {
+   "id": "kana:k:チ",
+   "char": "チ",
+   "romaji": "chi",
+   "script": "katakana",
+   "group": "t",
+   "tier": 1,
+   "order": 16,
+   "mnemonic": "Like キ tilted — chi. Compare テ."
+  },
+  {
+   "id": "kana:k:ツ",
+   "char": "ツ",
+   "romaji": "tsu",
+   "script": "katakana",
+   "group": "t",
+   "tier": 1,
+   "order": 17,
+   "mnemonic": "Three strokes sweeping DOWN — a tsunami's drops falling. Compare シ."
+  },
+  {
+   "id": "kana:k:テ",
+   "char": "テ",
+   "romaji": "te",
+   "script": "katakana",
+   "group": "t",
+   "tier": 1,
+   "order": 18,
+   "mnemonic": "A telephone pole with two wires. Compare チ."
+  },
+  {
+   "id": "kana:k:ト",
+   "char": "ト",
+   "romaji": "to",
+   "script": "katakana",
+   "group": "t",
+   "tier": 1,
+   "order": 19,
+   "mnemonic": "A totem pole with one nub."
+  },
+  {
+   "id": "kana:k:ナ",
+   "char": "ナ",
+   "romaji": "na",
+   "script": "katakana",
+   "group": "n",
+   "tier": 1,
+   "order": 20,
+   "mnemonic": "A knife crossing — na."
+  },
+  {
+   "id": "kana:k:ニ",
+   "char": "ニ",
+   "romaji": "ni",
+   "script": "katakana",
+   "group": "n",
+   "tier": 1,
+   "order": 21,
+   "mnemonic": "Two bars — ni means two."
+  },
+  {
+   "id": "kana:k:ヌ",
+   "char": "ヌ",
+   "romaji": "nu",
+   "script": "katakana",
+   "group": "n",
+   "tier": 1,
+   "order": 22,
+   "mnemonic": "Crossed noodles — compare ス."
+  },
+  {
+   "id": "kana:k:ネ",
+   "char": "ネ",
+   "romaji": "ne",
+   "script": "katakana",
+   "group": "n",
+   "tier": 1,
+   "order": 23,
+   "mnemonic": "An angular ね with a cross."
+  },
+  {
+   "id": "kana:k:ノ",
+   "char": "ノ",
+   "romaji": "no",
+   "script": "katakana",
+   "group": "n",
+   "tier": 1,
+   "order": 24,
+   "mnemonic": "A single 'no' slash."
+  },
+  {
+   "id": "kana:k:ハ",
+   "char": "ハ",
+   "romaji": "ha",
+   "script": "katakana",
+   "group": "h",
+   "tier": 1,
+   "order": 25,
+   "mnemonic": "Two legs apart — ha ha."
+  },
+  {
+   "id": "kana:k:ヒ",
+   "char": "ヒ",
+   "romaji": "hi",
+   "script": "katakana",
+   "group": "h",
+   "tier": 1,
+   "order": 26,
+   "mnemonic": "A heel and shin."
+  },
+  {
+   "id": "kana:k:フ",
+   "char": "フ",
+   "romaji": "fu",
+   "script": "katakana",
+   "group": "h",
+   "tier": 1,
+   "order": 27,
+   "mnemonic": "A hood, one stroke. Compare ワ and ヌ."
+  },
+  {
+   "id": "kana:k:ヘ",
+   "char": "ヘ",
+   "romaji": "he",
+   "script": "katakana",
+   "group": "h",
+   "tier": 1,
+   "order": 28,
+   "mnemonic": "Identical to へ — a hill."
+  },
+  {
+   "id": "kana:k:ホ",
+   "char": "ホ",
+   "romaji": "ho",
+   "script": "katakana",
+   "group": "h",
+   "tier": 1,
+   "order": 29,
+   "mnemonic": "A cross with two feet."
+  },
+  {
+   "id": "kana:k:マ",
+   "char": "マ",
+   "romaji": "ma",
+   "script": "katakana",
+   "group": "m",
+   "tier": 1,
+   "order": 30,
+   "mnemonic": "An arrow head — compare ム."
+  },
+  {
+   "id": "kana:k:ミ",
+   "char": "ミ",
+   "romaji": "mi",
+   "script": "katakana",
+   "group": "m",
+   "tier": 1,
+   "order": 31,
+   "mnemonic": "Three bars — mi."
+  },
+  {
+   "id": "kana:k:ム",
+   "char": "ム",
+   "romaji": "mu",
+   "script": "katakana",
+   "group": "m",
+   "tier": 1,
+   "order": 32,
+   "mnemonic": "A cow's open mouth — muu. Compare マ."
+  },
+  {
+   "id": "kana:k:メ",
+   "char": "メ",
+   "romaji": "me",
+   "script": "katakana",
+   "group": "m",
+   "tier": 1,
+   "order": 33,
+   "mnemonic": "A crossed-out mess — me."
+  },
+  {
+   "id": "kana:k:モ",
+   "char": "モ",
+   "romaji": "mo",
+   "script": "katakana",
+   "group": "m",
+   "tier": 1,
+   "order": 34,
+   "mnemonic": "Like も, squared off."
+  },
+  {
+   "id": "kana:k:ヤ",
+   "char": "ヤ",
+   "romaji": "ya",
+   "script": "katakana",
+   "group": "y",
+   "tier": 1,
+   "order": 35,
+   "mnemonic": "A yacht."
+  },
+  {
+   "id": "kana:k:ユ",
+   "char": "ユ",
+   "romaji": "yu",
+   "script": "katakana",
+   "group": "y",
+   "tier": 1,
+   "order": 36,
+   "mnemonic": "A 'U' laid flat."
+  },
+  {
+   "id": "kana:k:ヨ",
+   "char": "ヨ",
+   "romaji": "yo",
+   "script": "katakana",
+   "group": "y",
+   "tier": 1,
+   "order": 37,
+   "mnemonic": "Three prongs, like a fork — yo."
+  },
+  {
+   "id": "kana:k:ラ",
+   "char": "ラ",
+   "romaji": "ra",
+   "script": "katakana",
+   "group": "r",
+   "tier": 1,
+   "order": 38,
+   "mnemonic": "A flag on a pole."
+  },
+  {
+   "id": "kana:k:リ",
+   "char": "リ",
+   "romaji": "ri",
+   "script": "katakana",
+   "group": "r",
+   "tier": 1,
+   "order": 39,
+   "mnemonic": "Two strokes — same as り, straighter."
+  },
+  {
+   "id": "kana:k:ル",
+   "char": "ル",
+   "romaji": "ru",
+   "script": "katakana",
+   "group": "r",
+   "tier": 1,
+   "order": 40,
+   "mnemonic": "Two legs, right one curling — compare レ."
+  },
+  {
+   "id": "kana:k:レ",
+   "char": "レ",
+   "romaji": "re",
+   "script": "katakana",
+   "group": "r",
+   "tier": 1,
+   "order": 41,
+   "mnemonic": "One bend, like a checkmark."
+  },
+  {
+   "id": "kana:k:ロ",
+   "char": "ロ",
+   "romaji": "ro",
+   "script": "katakana",
+   "group": "r",
+   "tier": 1,
+   "order": 42,
+   "mnemonic": "A room — a plain box."
+  },
+  {
+   "id": "kana:k:ワ",
+   "char": "ワ",
+   "romaji": "wa",
+   "script": "katakana",
+   "group": "w",
+   "tier": 1,
+   "order": 43,
+   "mnemonic": "Wide and round — compare ク and フ."
+  },
+  {
+   "id": "kana:k:ヲ",
+   "char": "ヲ",
+   "romaji": "wo",
+   "script": "katakana",
+   "group": "w",
+   "tier": 1,
+   "order": 44,
+   "mnemonic": "Rare: the object particle in katakana."
+  },
+  {
+   "id": "kana:k:ン",
+   "char": "ン",
+   "romaji": "n",
+   "script": "katakana",
+   "group": "n-final",
+   "tier": 1,
+   "order": 45,
+   "mnemonic": "One stroke sweeping UP — compare ソ, which goes down."
+  },
+  {
+   "id": "kana:k:ガ",
+   "char": "ガ",
+   "romaji": "ga",
+   "script": "katakana",
+   "group": "g",
+   "tier": 2,
+   "order": 46,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ギ",
+   "char": "ギ",
+   "romaji": "gi",
+   "script": "katakana",
+   "group": "g",
+   "tier": 2,
+   "order": 47,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:グ",
+   "char": "グ",
+   "romaji": "gu",
+   "script": "katakana",
+   "group": "g",
+   "tier": 2,
+   "order": 48,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ゲ",
+   "char": "ゲ",
+   "romaji": "ge",
+   "script": "katakana",
+   "group": "g",
+   "tier": 2,
+   "order": 49,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ゴ",
+   "char": "ゴ",
+   "romaji": "go",
+   "script": "katakana",
+   "group": "g",
+   "tier": 2,
+   "order": 50,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ザ",
+   "char": "ザ",
+   "romaji": "za",
+   "script": "katakana",
+   "group": "z",
+   "tier": 2,
+   "order": 51,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ジ",
+   "char": "ジ",
+   "romaji": "ji",
+   "script": "katakana",
+   "group": "z",
+   "tier": 2,
+   "order": 52,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ズ",
+   "char": "ズ",
+   "romaji": "zu",
+   "script": "katakana",
+   "group": "z",
+   "tier": 2,
+   "order": 53,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ゼ",
+   "char": "ゼ",
+   "romaji": "ze",
+   "script": "katakana",
+   "group": "z",
+   "tier": 2,
+   "order": 54,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ゾ",
+   "char": "ゾ",
+   "romaji": "zo",
+   "script": "katakana",
+   "group": "z",
+   "tier": 2,
+   "order": 55,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ダ",
+   "char": "ダ",
+   "romaji": "da",
+   "script": "katakana",
+   "group": "d",
+   "tier": 2,
+   "order": 56,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ヂ",
+   "char": "ヂ",
+   "romaji": "ji",
+   "script": "katakana",
+   "group": "d",
+   "tier": 2,
+   "order": 57,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ヅ",
+   "char": "ヅ",
+   "romaji": "zu",
+   "script": "katakana",
+   "group": "d",
+   "tier": 2,
+   "order": 58,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:デ",
+   "char": "デ",
+   "romaji": "de",
+   "script": "katakana",
+   "group": "d",
+   "tier": 2,
+   "order": 59,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ド",
+   "char": "ド",
+   "romaji": "do",
+   "script": "katakana",
+   "group": "d",
+   "tier": 2,
+   "order": 60,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:バ",
+   "char": "バ",
+   "romaji": "ba",
+   "script": "katakana",
+   "group": "b",
+   "tier": 2,
+   "order": 61,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ビ",
+   "char": "ビ",
+   "romaji": "bi",
+   "script": "katakana",
+   "group": "b",
+   "tier": 2,
+   "order": 62,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ブ",
+   "char": "ブ",
+   "romaji": "bu",
+   "script": "katakana",
+   "group": "b",
+   "tier": 2,
+   "order": 63,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ベ",
+   "char": "ベ",
+   "romaji": "be",
+   "script": "katakana",
+   "group": "b",
+   "tier": 2,
+   "order": 64,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ボ",
+   "char": "ボ",
+   "romaji": "bo",
+   "script": "katakana",
+   "group": "b",
+   "tier": 2,
+   "order": 65,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:パ",
+   "char": "パ",
+   "romaji": "pa",
+   "script": "katakana",
+   "group": "p",
+   "tier": 2,
+   "order": 66,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ピ",
+   "char": "ピ",
+   "romaji": "pi",
+   "script": "katakana",
+   "group": "p",
+   "tier": 2,
+   "order": 67,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:プ",
+   "char": "プ",
+   "romaji": "pu",
+   "script": "katakana",
+   "group": "p",
+   "tier": 2,
+   "order": 68,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ペ",
+   "char": "ペ",
+   "romaji": "pe",
+   "script": "katakana",
+   "group": "p",
+   "tier": 2,
+   "order": 69,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ポ",
+   "char": "ポ",
+   "romaji": "po",
+   "script": "katakana",
+   "group": "p",
+   "tier": 2,
+   "order": 70,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:キャ",
+   "char": "キャ",
+   "romaji": "kya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 71,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:キュ",
+   "char": "キュ",
+   "romaji": "kyu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 72,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:キョ",
+   "char": "キョ",
+   "romaji": "kyo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 73,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:シャ",
+   "char": "シャ",
+   "romaji": "sha",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 74,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:シュ",
+   "char": "シュ",
+   "romaji": "shu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 75,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ショ",
+   "char": "ショ",
+   "romaji": "sho",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 76,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:チャ",
+   "char": "チャ",
+   "romaji": "cha",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 77,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:チュ",
+   "char": "チュ",
+   "romaji": "chu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 78,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:チョ",
+   "char": "チョ",
+   "romaji": "cho",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 79,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ニャ",
+   "char": "ニャ",
+   "romaji": "nya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 80,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ニュ",
+   "char": "ニュ",
+   "romaji": "nyu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 81,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ニョ",
+   "char": "ニョ",
+   "romaji": "nyo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 82,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ヒャ",
+   "char": "ヒャ",
+   "romaji": "hya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 83,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ヒュ",
+   "char": "ヒュ",
+   "romaji": "hyu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 84,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ヒョ",
+   "char": "ヒョ",
+   "romaji": "hyo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 85,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ミャ",
+   "char": "ミャ",
+   "romaji": "mya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 86,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ミュ",
+   "char": "ミュ",
+   "romaji": "myu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 87,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ミョ",
+   "char": "ミョ",
+   "romaji": "myo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 88,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:リャ",
+   "char": "リャ",
+   "romaji": "rya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 89,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:リュ",
+   "char": "リュ",
+   "romaji": "ryu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 90,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:リョ",
+   "char": "リョ",
+   "romaji": "ryo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 91,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ギャ",
+   "char": "ギャ",
+   "romaji": "gya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 92,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ギュ",
+   "char": "ギュ",
+   "romaji": "gyu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 93,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ギョ",
+   "char": "ギョ",
+   "romaji": "gyo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 94,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ジャ",
+   "char": "ジャ",
+   "romaji": "ja",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 95,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ジュ",
+   "char": "ジュ",
+   "romaji": "ju",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 96,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ジョ",
+   "char": "ジョ",
+   "romaji": "jo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 97,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ビャ",
+   "char": "ビャ",
+   "romaji": "bya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 98,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ビュ",
+   "char": "ビュ",
+   "romaji": "byu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 99,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ビョ",
+   "char": "ビョ",
+   "romaji": "byo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 100,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ピャ",
+   "char": "ピャ",
+   "romaji": "pya",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 101,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ピュ",
+   "char": "ピュ",
+   "romaji": "pyu",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 102,
+   "mnemonic": ""
+  },
+  {
+   "id": "kana:k:ピョ",
+   "char": "ピョ",
+   "romaji": "pyo",
+   "script": "katakana",
+   "group": "youon",
+   "tier": 3,
+   "order": 103,
+   "mnemonic": ""
+  }
+ ],
+ "confusables": [
+  [
+   "シ",
+   "ツ"
+  ],
+  [
+   "ソ",
+   "ン"
+  ],
+  [
+   "ク",
+   "ワ"
+  ],
+  [
+   "ス",
+   "ヌ"
+  ],
+  [
+   "チ",
+   "テ"
+  ],
+  [
+   "ル",
+   "レ"
+  ],
+  [
+   "マ",
+   "ム"
+  ],
+  [
+   "ナ",
+   "メ"
+  ],
+  [
+   "フ",
+   "ワ"
+  ],
+  [
+   "コ",
+   "ユ"
+  ],
+  [
+   "ね",
+   "れ"
+  ],
+  [
+   "ぬ",
+   "め"
+  ],
+  [
+   "は",
+   "ほ"
+  ],
+  [
+   "る",
+   "ろ"
+  ],
+  [
+   "さ",
+   "き"
+  ],
+  [
+   "わ",
+   "れ"
+  ]
+ ]
+}

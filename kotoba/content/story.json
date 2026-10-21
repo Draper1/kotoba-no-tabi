@@ -1,0 +1,80 @@
+{
+ "title": "言葉の旅",
+ "subtitle": "A journey told in the words you are learning",
+ "opening": "You land with a half-remembered phrasebook and three months before the exam. Nobody here is going to slow down for you. That turns out to be the point.",
+ "scenes": {
+  "1": {
+   "arrive": "The doors slide open and the announcements wash over you — too fast, all of it. Then one word surfaces that you actually know, and the wall becomes a language again.",
+   "voices": [
+    {"who": "Immigration officer", "jp": "こんにちは。お名前は？", "en": "Hello. Your name?"},
+    {"who": "Immigration officer", "jp": "日本は はじめてですか。", "en": "Is this your first time in Japan?"},
+    {"who": "A traveller beside you", "jp": "はじめまして。よろしく お願いします。", "en": "Nice to meet you."}
+   ],
+   "leave": "Stamped through. Outside, the air is warmer than you expected, and every sign is a small test you can now half-pass."
+  },
+  "2": {
+   "arrive": "The station is a river of people. Six exits, none obviously yours. A map covered in kanji you half-recognise — and half is more than none.",
+   "voices": [
+    {"who": "Station attendant", "jp": "どこへ 行きますか。", "en": "Where are you going?"},
+    {"who": "Station attendant", "jp": "三番の ホームです。九時十分の 電車ですよ。", "en": "It's platform 3. The 9:10 train."},
+    {"who": "An older woman", "jp": "その 電車は はやいです。", "en": "That train is fast."}
+   ],
+   "leave": "You find the platform with a minute to spare. The train arrives exactly when it said it would."
+  },
+  "3": {
+   "arrive": "A curtain of steam and the smell of broth. Six seats, five taken. The owner looks up and waits — no English menu, no rescue.",
+   "voices": [
+    {"who": "Shop owner", "jp": "いらっしゃいませ。何に しますか。", "en": "Welcome. What will you have?"},
+    {"who": "Shop owner", "jp": "からいのは 大丈夫ですか。", "en": "Is spicy all right?"},
+    {"who": "The man beside you", "jp": "ここの ラーメンは おいしいですよ。", "en": "The ramen here is delicious."}
+   ],
+   "leave": "You order without pointing. It arrives, and it is very good, and you said all of it yourself."
+  },
+  "4": {
+   "arrive": "A covered shopping street, a hundred small shops deep. Prices in kanji, and a shopkeeper who has decided to be patient with you.",
+   "voices": [
+    {"who": "Shopkeeper", "jp": "これは 千二百円です。", "en": "This one is 1,200 yen."},
+    {"who": "Shopkeeper", "jp": "その 青いのも いいですよ。", "en": "That blue one is nice too."},
+    {"who": "Shopkeeper", "jp": "小さいのが ありますか。", "en": "Do you have a small one?"}
+   ],
+   "leave": "You leave with something you chose, at a price you understood, after a conversation you held."
+  },
+  "5": {
+   "arrive": "A language school on the fourth floor. Twelve desks, chalk dust, and a teacher who asks questions and then actually waits for the answer.",
+   "voices": [
+    {"who": "先生", "jp": "しつもんが ありますか。", "en": "Do you have a question?"},
+    {"who": "先生", "jp": "この 漢字を 読んで ください。", "en": "Please read this kanji."},
+    {"who": "A classmate", "jp": "いっしょに 勉強しませんか。", "en": "Shall we study together?"}
+   ],
+   "leave": "Two hours gone in what felt like twenty minutes. Your notebook is a mess and your head is full."
+  },
+  "6": {
+   "arrive": "A homestay in a quiet neighbourhood. Shoes off at the door, a cat with strong opinions, and a family who talk to you like a person.",
+   "voices": [
+    {"who": "お母さん", "jp": "ごはんが できましたよ。", "en": "Dinner's ready."},
+    {"who": "お母さん", "jp": "家族は 何人ですか。", "en": "How many people are in your family?"},
+    {"who": "The daughter", "jp": "ねこは 部屋に いますか。", "en": "Is the cat in the room?"}
+   ],
+   "leave": "You wash up, badly, and are thanked anyway. The cat has claimed your futon."
+  },
+  "7": {
+   "arrive": "A day off. Rain in the morning, clear by noon, and a park full of people doing nothing in particular — beautifully.",
+   "voices": [
+    {"who": "A man with a camera", "jp": "きのうは 雨でしたね。", "en": "It rained yesterday, didn't it?"},
+    {"who": "A man with a camera", "jp": "しゃしんを とっても いいですか。", "en": "May I take a photo?"},
+    {"who": "A child", "jp": "あそこの 山は 高いですよ。", "en": "That mountain over there is tall."}
+   ],
+   "leave": "You talked about the weather with a stranger for four minutes. It is a small thing and it is not a small thing."
+  },
+  "8": {
+   "arrive": "A ryokan on the last night. Tatami, a low table, and a long soak that undoes three months of hunching over a desk.",
+   "voices": [
+    {"who": "女将", "jp": "おふろは あちらです。ゆっくり どうぞ。", "en": "The bath is that way. Please take your time."},
+    {"who": "女将", "jp": "あしたは 何時に 出ますか。", "en": "What time will you leave tomorrow?"},
+    {"who": "女将", "jp": "また 来て くださいね。", "en": "Please come again."}
+   ],
+   "leave": "You answer without translating first. Somewhere in the last three months, that stopped being remarkable.",
+   "final": true
+  }
+ }
+}

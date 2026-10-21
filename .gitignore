@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+save.json
+packaging/*.pkg.tar.zst
+packaging/src/
+packaging/pkg/
+dist/

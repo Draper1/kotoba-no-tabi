@@ -1,0 +1,1142 @@
+{
+ "items": [
+  {
+   "id": "g:wa",
+   "title": "は — topic marker",
+   "unit": 1,
+   "form": "Noun + は",
+   "note": "Marks what the sentence is about. Written は, pronounced 'wa'.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "私＿学生です。",
+     "answers": [
+      "は"
+     ],
+     "en": "I am a student."
+    },
+    {
+     "jp": "これ＿本です。",
+     "answers": [
+      "は"
+     ],
+     "en": "This is a book."
+    },
+    {
+     "jp": "田中さん＿先生ですか。",
+     "answers": [
+      "は"
+     ],
+     "en": "Is Mr/Ms Tanaka a teacher?"
+    }
+   ],
+   "seq": 0
+  },
+  {
+   "id": "g:ga_subject",
+   "title": "が — subject marker",
+   "unit": 2,
+   "form": "Noun + が",
+   "note": "Marks the subject, especially new information or the answer to 'who/what?'.",
+   "contrast": "は introduces what you're talking about; が picks out which one. '誰が来ましたか' asks WHICH person came, so the answer also takes が.",
+   "drills": [
+    {
+     "jp": "誰＿来ましたか。",
+     "answers": [
+      "が"
+     ],
+     "en": "Who came?"
+    },
+    {
+     "jp": "猫＿います。",
+     "answers": [
+      "が"
+     ],
+     "en": "There is a cat."
+    },
+    {
+     "jp": "私は日本語＿分かります。",
+     "answers": [
+      "が"
+     ],
+     "en": "I understand Japanese."
+    }
+   ],
+   "seq": 1
+  },
+  {
+   "id": "g:wo",
+   "title": "を — direct object",
+   "unit": 3,
+   "form": "Noun + を + verb",
+   "note": "Marks the thing the verb acts on. Only ever used as a particle — never inside a word.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "パン＿食べます。",
+     "answers": [
+      "を"
+     ],
+     "en": "I eat bread."
+    },
+    {
+     "jp": "水＿飲みました。",
+     "answers": [
+      "を"
+     ],
+     "en": "I drank water."
+    },
+    {
+     "jp": "本＿読みます。",
+     "answers": [
+      "を"
+     ],
+     "en": "I read a book."
+    }
+   ],
+   "seq": 2
+  },
+  {
+   "id": "g:ni_time",
+   "title": "に — at (a specific time)",
+   "unit": 2,
+   "form": "Time + に",
+   "note": "Used with clock times, dates and days. NOT used with 今日, 明日, 毎日, 今.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "七時＿起きます。",
+     "answers": [
+      "に"
+     ],
+     "en": "I get up at seven."
+    },
+    {
+     "jp": "日曜日＿会いましょう。",
+     "answers": [
+      "に"
+     ],
+     "en": "Let's meet on Sunday."
+    },
+    {
+     "jp": "三月＿日本へ行きます。",
+     "answers": [
+      "に"
+     ],
+     "en": "I'm going to Japan in March."
+    }
+   ],
+   "seq": 3
+  },
+  {
+   "id": "g:ni_direction",
+   "title": "に / へ — to (destination)",
+   "unit": 2,
+   "form": "Place + に／へ",
+   "note": "Both work for a destination. に leans toward arrival, へ toward the direction of travel.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "学校＿行きます。",
+     "answers": [
+      "に",
+      "へ"
+     ],
+     "en": "I go to school."
+    },
+    {
+     "jp": "日本＿来ました。",
+     "answers": [
+      "に",
+      "へ"
+     ],
+     "en": "I came to Japan."
+    }
+   ],
+   "seq": 4
+  },
+  {
+   "id": "g:ni_exist",
+   "title": "に — where something exists",
+   "unit": 6,
+   "form": "Place + に + あります／います",
+   "note": "With あります and います, the location takes に.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "部屋＿猫がいます。",
+     "answers": [
+      "に"
+     ],
+     "en": "There is a cat in the room."
+    },
+    {
+     "jp": "机の上＿本があります。",
+     "answers": [
+      "に"
+     ],
+     "en": "There is a book on the desk."
+    }
+   ],
+   "seq": 5
+  },
+  {
+   "id": "g:de_place",
+   "title": "で — where an action happens",
+   "unit": 3,
+   "form": "Place + で + verb",
+   "note": "で marks where something is DONE. に marks where something IS.",
+   "contrast": "レストランで食べます (I eat AT the restaurant — an action) vs レストランにいます (I AM at the restaurant — existence).",
+   "drills": [
+    {
+     "jp": "レストラン＿食べます。",
+     "answers": [
+      "で"
+     ],
+     "en": "I eat at a restaurant."
+    },
+    {
+     "jp": "図書館＿勉強しました。",
+     "answers": [
+      "で"
+     ],
+     "en": "I studied at the library."
+    },
+    {
+     "jp": "公園＿遊びます。",
+     "answers": [
+      "で"
+     ],
+     "en": "I play in the park."
+    }
+   ],
+   "seq": 6
+  },
+  {
+   "id": "g:de_means",
+   "title": "で — by means of",
+   "unit": 2,
+   "form": "Tool/transport + で",
+   "note": "How something is done: by bus, with chopsticks, in Japanese.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "バス＿行きます。",
+     "answers": [
+      "で"
+     ],
+     "en": "I go by bus."
+    },
+    {
+     "jp": "日本語＿話します。",
+     "answers": [
+      "で"
+     ],
+     "en": "I speak in Japanese."
+    }
+   ],
+   "seq": 7
+  },
+  {
+   "id": "g:to_and",
+   "title": "と — and / with",
+   "unit": 4,
+   "form": "Noun と Noun ／ Person と",
+   "note": "Joins nouns exhaustively, and marks who you did something with.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "パン＿卵を買いました。",
+     "answers": [
+      "と"
+     ],
+     "en": "I bought bread and eggs."
+    },
+    {
+     "jp": "友達＿行きます。",
+     "answers": [
+      "と"
+     ],
+     "en": "I go with a friend."
+    }
+   ],
+   "seq": 8
+  },
+  {
+   "id": "g:mo",
+   "title": "も — also / too",
+   "unit": 1,
+   "form": "Noun + も (replaces は/が/を)",
+   "note": "も takes the place of は, が and を — you never say 'はも' or 'をも'.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "私＿学生です。",
+     "answers": [
+      "も"
+     ],
+     "en": "I am a student too."
+    },
+    {
+     "jp": "水＿飲みます。",
+     "answers": [
+      "も"
+     ],
+     "en": "I drink water too."
+    }
+   ],
+   "seq": 9
+  },
+  {
+   "id": "g:no",
+   "title": "の — possessive / linking",
+   "unit": 4,
+   "form": "Noun の Noun",
+   "note": "Links two nouns: the first describes the second.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "私＿本です。",
+     "answers": [
+      "の"
+     ],
+     "en": "It is my book."
+    },
+    {
+     "jp": "日本語＿先生です。",
+     "answers": [
+      "の"
+     ],
+     "en": "She is a Japanese teacher."
+    },
+    {
+     "jp": "机＿上に猫がいます。",
+     "answers": [
+      "の"
+     ],
+     "en": "There is a cat on the desk."
+    }
+   ],
+   "seq": 10
+  },
+  {
+   "id": "g:kara_made",
+   "title": "から / まで — from / until",
+   "unit": 2,
+   "form": "X から Y まで",
+   "note": "Works for both times and places.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "九時＿五時まで働きます。",
+     "answers": [
+      "から"
+     ],
+     "en": "I work from nine to five."
+    },
+    {
+     "jp": "駅から学校＿歩きます。",
+     "answers": [
+      "まで"
+     ],
+     "en": "I walk from the station to school."
+    }
+   ],
+   "seq": 11
+  },
+  {
+   "id": "g:ya",
+   "title": "や — and (among others)",
+   "unit": 4,
+   "form": "Noun や Noun",
+   "note": "Lists examples, implying the list isn't complete. と means the list IS complete.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "本＿雑誌を買いました。",
+     "answers": [
+      "や"
+     ],
+     "en": "I bought books and magazines (among other things)."
+    }
+   ],
+   "seq": 12
+  },
+  {
+   "id": "g:ka",
+   "title": "か — question marker",
+   "unit": 1,
+   "form": "Sentence + か",
+   "note": "Turns a statement into a question. No question mark needed in Japanese.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "学生です＿。",
+     "answers": [
+      "か"
+     ],
+     "en": "Are you a student?"
+    },
+    {
+     "jp": "何を食べます＿。",
+     "answers": [
+      "か"
+     ],
+     "en": "What will you eat?"
+    }
+   ],
+   "seq": 13
+  },
+  {
+   "id": "g:ne_yo",
+   "title": "ね / よ — sentence endings",
+   "unit": 7,
+   "form": "Sentence + ね／よ",
+   "note": "ね seeks agreement ('...isn't it?'). よ asserts new information ('I'm telling you').",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "いい天気です＿。",
+     "answers": [
+      "ね"
+     ],
+     "en": "Nice weather, isn't it?"
+    }
+   ],
+   "seq": 14
+  },
+  {
+   "id": "g:kore",
+   "title": "これ・それ・あれ・どれ",
+   "unit": 4,
+   "form": "Standalone pronoun",
+   "note": "これ near me, それ near you, あれ far from both, どれ which. These stand alone.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "＿は本です。(the thing in my hand)",
+     "answers": [
+      "これ"
+     ],
+     "en": "This is a book."
+    },
+    {
+     "jp": "＿が好きですか。(which one)",
+     "answers": [
+      "どれ"
+     ],
+     "en": "Which one do you like?"
+    }
+   ],
+   "seq": 15
+  },
+  {
+   "id": "g:kono",
+   "title": "この・その・あの・どの",
+   "unit": 4,
+   "form": "この + Noun",
+   "note": "Same four distances, but these ALWAYS attach to a noun: この本, あの人.",
+   "contrast": "これは本です (this is a book) vs この本 (this book). これ本 and この は本です are both impossible.",
+   "drills": [
+    {
+     "jp": "＿本を読みます。(the book here)",
+     "answers": [
+      "この"
+     ],
+     "en": "I read this book."
+    },
+    {
+     "jp": "＿人は先生です。(that person over there)",
+     "answers": [
+      "あの"
+     ],
+     "en": "That person is a teacher."
+    }
+   ],
+   "seq": 16
+  },
+  {
+   "id": "g:qwords",
+   "title": "Question words",
+   "unit": 5,
+   "form": "何・誰・どこ・いつ・いくら・どう",
+   "note": "何 what, 誰 who, どこ where, いつ when, いくら how much, どうして why, どう how.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "＿を食べますか。",
+     "answers": [
+      "何",
+      "なに"
+     ],
+     "en": "What will you eat?"
+    },
+    {
+     "jp": "＿が来ましたか。",
+     "answers": [
+      "誰",
+      "だれ"
+     ],
+     "en": "Who came?"
+    },
+    {
+     "jp": "＿に行きますか。",
+     "answers": [
+      "どこ"
+     ],
+     "en": "Where are you going?"
+    },
+    {
+     "jp": "＿ですか。(price)",
+     "answers": [
+      "いくら"
+     ],
+     "en": "How much is it?"
+    }
+   ],
+   "seq": 17
+  },
+  {
+   "id": "g:masu",
+   "title": "〜ます — polite present/future",
+   "unit": 2,
+   "form": "Verb stem + ます",
+   "note": "Covers both habit and future: 食べます = 'I eat' and 'I will eat'.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 毎日パンを＿。",
+     "answers": [
+      "食べます",
+      "たべます"
+     ],
+     "en": "I eat bread every day."
+    },
+    {
+     "jp": "飲む → お茶を＿。",
+     "answers": [
+      "飲みます",
+      "のみます"
+     ],
+     "en": "I drink tea."
+    }
+   ],
+   "seq": 18
+  },
+  {
+   "id": "g:masen",
+   "title": "〜ません — polite negative",
+   "unit": 2,
+   "form": "Verb stem + ません",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 肉を＿。",
+     "answers": [
+      "食べません",
+      "たべません"
+     ],
+     "en": "I don't eat meat."
+    },
+    {
+     "jp": "行く → 今日は＿。",
+     "answers": [
+      "行きません",
+      "いきません"
+     ],
+     "en": "I'm not going today."
+    }
+   ],
+   "seq": 19
+  },
+  {
+   "id": "g:mashita",
+   "title": "〜ました — polite past",
+   "unit": 7,
+   "form": "Verb stem + ました",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 昨日パンを＿。",
+     "answers": [
+      "食べました",
+      "たべました"
+     ],
+     "en": "I ate bread yesterday."
+    },
+    {
+     "jp": "見る → 映画を＿。",
+     "answers": [
+      "見ました",
+      "みました"
+     ],
+     "en": "I watched a film."
+    }
+   ],
+   "seq": 20
+  },
+  {
+   "id": "g:masendeshita",
+   "title": "〜ませんでした — polite past negative",
+   "unit": 7,
+   "form": "Verb stem + ませんでした",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "行く → 昨日学校へ＿。",
+     "answers": [
+      "行きませんでした",
+      "いきませんでした"
+     ],
+     "en": "I didn't go to school yesterday."
+    }
+   ],
+   "seq": 21
+  },
+  {
+   "id": "g:masenka",
+   "title": "〜ませんか — shall we? / won't you?",
+   "unit": 7,
+   "form": "Verb stem + ませんか",
+   "note": "A soft invitation. Literally 'won't you...?'",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 一緒にご飯を＿。",
+     "answers": [
+      "食べませんか",
+      "たべませんか"
+     ],
+     "en": "Shall we eat together?"
+    }
+   ],
+   "seq": 22
+  },
+  {
+   "id": "g:mashou",
+   "title": "〜ましょう — let's",
+   "unit": 7,
+   "form": "Verb stem + ましょう",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "行く → 一緒に＿。",
+     "answers": [
+      "行きましょう",
+      "いきましょう"
+     ],
+     "en": "Let's go together."
+    }
+   ],
+   "seq": 23
+  },
+  {
+   "id": "g:tai",
+   "title": "〜たいです — want to",
+   "unit": 8,
+   "form": "Verb stem + たいです",
+   "note": "Only for your own desire. The object may take が instead of を.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 寿司が＿。",
+     "answers": [
+      "食べたいです",
+      "たべたいです"
+     ],
+     "en": "I want to eat sushi."
+    },
+    {
+     "jp": "行く → 日本へ＿。",
+     "answers": [
+      "行きたいです",
+      "いきたいです"
+     ],
+     "en": "I want to go to Japan."
+    }
+   ],
+   "seq": 24
+  },
+  {
+   "id": "g:te_form",
+   "title": "て-form",
+   "unit": 8,
+   "form": "See the pattern note",
+   "note": "う-verbs: う/つ/る→って, む/ぶ/ぬ→んで, く→いて, ぐ→いで, す→して. る-verbs: drop る, add て. Irregular: する→して, 来る→来て. One exception: 行く→行って (not 行いて).",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → ＿",
+     "answers": [
+      "食べて",
+      "たべて"
+     ],
+     "en": "eating / and eat"
+    },
+    {
+     "jp": "飲む → ＿",
+     "answers": [
+      "飲んで",
+      "のんで"
+     ],
+     "en": "drinking / and drink"
+    },
+    {
+     "jp": "書く → ＿",
+     "answers": [
+      "書いて",
+      "かいて"
+     ],
+     "en": "writing / and write"
+    },
+    {
+     "jp": "話す → ＿",
+     "answers": [
+      "話して",
+      "はなして"
+     ],
+     "en": "speaking / and speak"
+    },
+    {
+     "jp": "行く → ＿",
+     "answers": [
+      "行って",
+      "いって"
+     ],
+     "en": "going / and go (irregular!)"
+    },
+    {
+     "jp": "する → ＿",
+     "answers": [
+      "して"
+     ],
+     "en": "doing / and do"
+    }
+   ],
+   "seq": 25
+  },
+  {
+   "id": "g:te_kudasai",
+   "title": "〜てください — please do",
+   "unit": 8,
+   "form": "て-form + ください",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "待つ → ちょっと＿。",
+     "answers": [
+      "待ってください",
+      "まってください"
+     ],
+     "en": "Please wait a moment."
+    },
+    {
+     "jp": "見る → これを＿。",
+     "answers": [
+      "見てください",
+      "みてください"
+     ],
+     "en": "Please look at this."
+    }
+   ],
+   "seq": 26
+  },
+  {
+   "id": "g:te_imasu",
+   "title": "〜ています — ongoing action / state",
+   "unit": 8,
+   "form": "て-form + います",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → 今ご飯を＿。",
+     "answers": [
+      "食べています",
+      "たべています"
+     ],
+     "en": "I am eating now."
+    }
+   ],
+   "seq": 27
+  },
+  {
+   "id": "g:te_mo_ii",
+   "title": "〜てもいいです — may I",
+   "unit": 8,
+   "form": "て-form + もいいです",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "入る → ＿か。",
+     "answers": [
+      "入ってもいいです",
+      "はいってもいいです"
+     ],
+     "en": "May I come in?"
+    }
+   ],
+   "seq": 28
+  },
+  {
+   "id": "g:te_wa_ikemasen",
+   "title": "〜てはいけません — must not",
+   "unit": 8,
+   "form": "て-form + はいけません",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → ここで＿。",
+     "answers": [
+      "食べてはいけません",
+      "たべてはいけません"
+     ],
+     "en": "You must not eat here."
+    }
+   ],
+   "seq": 29
+  },
+  {
+   "id": "g:nai_form",
+   "title": "ない-form — plain negative",
+   "unit": 8,
+   "form": "See the pattern note",
+   "note": "う-verbs: final -u → -anai (飲む→飲まない). う→わない (買う→買わない). る-verbs: drop る, add ない. する→しない, 来る→来ない. ある→ない.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "食べる → ＿",
+     "answers": [
+      "食べない",
+      "たべない"
+     ],
+     "en": "not eat"
+    },
+    {
+     "jp": "飲む → ＿",
+     "answers": [
+      "飲まない",
+      "のまない"
+     ],
+     "en": "not drink"
+    },
+    {
+     "jp": "買う → ＿",
+     "answers": [
+      "買わない",
+      "かわない"
+     ],
+     "en": "not buy (う→わ!)"
+    },
+    {
+     "jp": "する → ＿",
+     "answers": [
+      "しない"
+     ],
+     "en": "not do"
+    }
+   ],
+   "seq": 30
+  },
+  {
+   "id": "g:naide_kudasai",
+   "title": "〜ないでください — please don't",
+   "unit": 8,
+   "form": "ない-form + でください",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "入る → ここに＿。",
+     "answers": [
+      "入らないでください",
+      "はいらないでください"
+     ],
+     "en": "Please don't come in here."
+    }
+   ],
+   "seq": 31
+  },
+  {
+   "id": "g:i_adj",
+   "title": "い-adjectives — plain and negative",
+   "unit": 4,
+   "form": "〜い / 〜くないです",
+   "note": "Drop the final い and add くない. いい is irregular: よくない, よかった.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "大きい → この部屋は＿です。(not big)",
+     "answers": [
+      "大きくない",
+      "おおきくない"
+     ],
+     "en": "This room isn't big."
+    },
+    {
+     "jp": "高い → ＿です。(not expensive)",
+     "answers": [
+      "高くない",
+      "たかくない"
+     ],
+     "en": "It isn't expensive."
+    },
+    {
+     "jp": "いい → 天気は＿です。(not good)",
+     "answers": [
+      "よくない"
+     ],
+     "en": "The weather isn't good (irregular!)"
+    }
+   ],
+   "seq": 32
+  },
+  {
+   "id": "g:i_adj_past",
+   "title": "い-adjectives — past",
+   "unit": 7,
+   "form": "〜かったです / 〜くなかったです",
+   "note": "Drop い, add かった. Never 'い + でした'.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "楽しい → 昨日は＿です。",
+     "answers": [
+      "楽しかった",
+      "たのしかった"
+     ],
+     "en": "Yesterday was fun."
+    },
+    {
+     "jp": "暑い → ＿です。(was not hot)",
+     "answers": [
+      "暑くなかった",
+      "あつくなかった"
+     ],
+     "en": "It wasn't hot."
+    },
+    {
+     "jp": "いい → 天気は＿です。(was good)",
+     "answers": [
+      "よかった"
+     ],
+     "en": "The weather was good (irregular!)"
+    }
+   ],
+   "seq": 33
+  },
+  {
+   "id": "g:na_adj",
+   "title": "な-adjectives",
+   "unit": 6,
+   "form": "〜です / 〜じゃないです",
+   "note": "These behave like nouns: 静かです, 静かじゃないです, 静かでした. Before a noun they take な: 静かな部屋.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "静か → この部屋は＿です。(is not quiet)",
+     "answers": [
+      "静かじゃない",
+      "しずかじゃない",
+      "静かではない",
+      "しずかではない"
+     ],
+     "en": "This room isn't quiet."
+    },
+    {
+     "jp": "元気 → ＿部屋 → 元気＿人です。(before a noun)",
+     "answers": [
+      "な"
+     ],
+     "en": "an energetic person"
+    }
+   ],
+   "seq": 34
+  },
+  {
+   "id": "g:adj_noun",
+   "title": "Adjectives before nouns",
+   "unit": 4,
+   "form": "い-adj + Noun ／ な-adj + な + Noun",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "大きい + 家 → ＿家",
+     "answers": [
+      "大きい家",
+      "おおきいいえ"
+     ],
+     "en": "a big house"
+    },
+    {
+     "jp": "きれい + 花 → ＿花",
+     "answers": [
+      "きれいな花",
+      "きれいなはな"
+     ],
+     "en": "a pretty flower"
+    }
+   ],
+   "seq": 35
+  },
+  {
+   "id": "g:arimasu",
+   "title": "あります / います — there is",
+   "unit": 6,
+   "form": "Place に Thing が あります／います",
+   "note": "あります for inanimate things, います for people and animals.",
+   "contrast": "Plants and dead things take あります. A car takes あります even though it moves.",
+   "drills": [
+    {
+     "jp": "部屋に猫が＿。",
+     "answers": [
+      "います"
+     ],
+     "en": "There is a cat in the room."
+    },
+    {
+     "jp": "机の上に本が＿。",
+     "answers": [
+      "あります"
+     ],
+     "en": "There is a book on the desk."
+    },
+    {
+     "jp": "公園に子供が＿。",
+     "answers": [
+      "います"
+     ],
+     "en": "There are children in the park."
+    }
+   ],
+   "seq": 36
+  },
+  {
+   "id": "g:suki",
+   "title": "〜が好きです — to like",
+   "unit": 8,
+   "form": "Noun が 好きです",
+   "note": "好き is a な-adjective, and what you like takes が, not を.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "私は日本語＿好きです。",
+     "answers": [
+      "が"
+     ],
+     "en": "I like Japanese."
+    },
+    {
+     "jp": "音楽＿好きじゃないです。",
+     "answers": [
+      "が"
+     ],
+     "en": "I don't like music."
+    }
+   ],
+   "seq": 37
+  },
+  {
+   "id": "g:jouzu",
+   "title": "〜が上手です — good at",
+   "unit": 8,
+   "form": "Noun が 上手です／下手です",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "彼は料理＿上手です。",
+     "answers": [
+      "が"
+     ],
+     "en": "He is good at cooking."
+    }
+   ],
+   "seq": 38
+  },
+  {
+   "id": "g:hou_ga",
+   "title": "〜のほうが〜 — comparison",
+   "unit": 7,
+   "form": "A のほうが B より + adjective",
+   "note": "より marks the thing being beaten.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "電車＿ほうがバスより速いです。",
+     "answers": [
+      "の"
+     ],
+     "en": "The train is faster than the bus."
+    },
+    {
+     "jp": "これはあれ＿高いです。",
+     "answers": [
+      "より"
+     ],
+     "en": "This is more expensive than that."
+    }
+   ],
+   "seq": 39
+  },
+  {
+   "id": "g:amari",
+   "title": "あまり〜ない — not very",
+   "unit": 7,
+   "form": "あまり + negative",
+   "note": "あまり and ぜんぜん both REQUIRE a negative ending.",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "＿おいしくないです。(not very tasty)",
+     "answers": [
+      "あまり"
+     ],
+     "en": "It isn't very tasty."
+    },
+    {
+     "jp": "＿分かりません。(don't understand at all)",
+     "answers": [
+      "全然",
+      "ぜんぜん"
+     ],
+     "en": "I don't understand at all."
+    }
+   ],
+   "seq": 40
+  },
+  {
+   "id": "g:mada_mou",
+   "title": "まだ / もう — still / already",
+   "unit": 7,
+   "form": "まだ〜ません ／ もう〜ました",
+   "note": "",
+   "contrast": "",
+   "drills": [
+    {
+     "jp": "＿食べました。(already ate)",
+     "answers": [
+      "もう"
+     ],
+     "en": "I have already eaten."
+    },
+    {
+     "jp": "＿食べていません。(not yet)",
+     "answers": [
+      "まだ"
+     ],
+     "en": "I haven't eaten yet."
+    }
+   ],
+   "seq": 41
+  }
+ ]
+}

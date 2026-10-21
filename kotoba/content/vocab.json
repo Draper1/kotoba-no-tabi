@@ -1,0 +1,3486 @@
+{
+ "units": {
+  "1": {
+   "unit": 1,
+   "title": "Arrivals",
+   "jp": "空港",
+   "blurb": "Greetings, introducing yourself, people, numbers"
+  },
+  "2": {
+   "unit": 2,
+   "title": "The Station",
+   "jp": "駅",
+   "blurb": "Getting around, directions, time and days"
+  },
+  "3": {
+   "unit": 3,
+   "title": "The Noodle Shop",
+   "jp": "食堂",
+   "blurb": "Food, drink, eating out"
+  },
+  "4": {
+   "unit": 4,
+   "title": "The Market",
+   "jp": "店",
+   "blurb": "Shopping, objects, colours, this and that"
+  },
+  "5": {
+   "unit": 5,
+   "title": "The School",
+   "jp": "学校",
+   "blurb": "Studying, and the verbs you need most"
+  },
+  "6": {
+   "unit": 6,
+   "title": "The House",
+   "jp": "家",
+   "blurb": "Family, home, and being somewhere"
+  },
+  "7": {
+   "unit": 7,
+   "title": "The Town",
+   "jp": "町",
+   "blurb": "Places, weather, and talking about the past"
+  },
+  "8": {
+   "unit": 8,
+   "title": "The Inn",
+   "jp": "旅館",
+   "blurb": "The body, feelings, and asking for things"
+  }
+ },
+ "items": [
+  {
+   "id": "v:こんにちは:こんにちは",
+   "jp": "こんにちは",
+   "kana": "こんにちは",
+   "en": [
+    "hello",
+    "good afternoon"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 0
+  },
+  {
+   "id": "v:おはようございます:おはようございます",
+   "jp": "おはようございます",
+   "kana": "おはようございます",
+   "en": [
+    "good morning"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 1
+  },
+  {
+   "id": "v:こんばんは:こんばんは",
+   "jp": "こんばんは",
+   "kana": "こんばんは",
+   "en": [
+    "good evening"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 2
+  },
+  {
+   "id": "v:さようなら:さようなら",
+   "jp": "さようなら",
+   "kana": "さようなら",
+   "en": [
+    "goodbye"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 3
+  },
+  {
+   "id": "v:ありがとう:ありがとう",
+   "jp": "ありがとう",
+   "kana": "ありがとう",
+   "en": [
+    "thank you"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 4
+  },
+  {
+   "id": "v:すみません:すみません",
+   "jp": "すみません",
+   "kana": "すみません",
+   "en": [
+    "excuse me",
+    "sorry"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 5
+  },
+  {
+   "id": "v:はじめまして:はじめまして",
+   "jp": "はじめまして",
+   "kana": "はじめまして",
+   "en": [
+    "nice to meet you"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 6
+  },
+  {
+   "id": "v:おねがいします:お願いします",
+   "jp": "お願いします",
+   "kana": "おねがいします",
+   "en": [
+    "please"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 7
+  },
+  {
+   "id": "v:はい:はい",
+   "jp": "はい",
+   "kana": "はい",
+   "en": [
+    "yes"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 8
+  },
+  {
+   "id": "v:いいえ:いいえ",
+   "jp": "いいえ",
+   "kana": "いいえ",
+   "en": [
+    "no"
+   ],
+   "pos": "exp",
+   "pos_name": "expression",
+   "unit": 1,
+   "seq": 9
+  },
+  {
+   "id": "v:わたし:私",
+   "jp": "私",
+   "kana": "わたし",
+   "en": [
+    "I",
+    "me"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 1,
+   "seq": 10
+  },
+  {
+   "id": "v:あなた:あなた",
+   "jp": "あなた",
+   "kana": "あなた",
+   "en": [
+    "you"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 1,
+   "seq": 11
+  },
+  {
+   "id": "v:なまえ:名前",
+   "jp": "名前",
+   "kana": "なまえ",
+   "en": [
+    "name"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 12
+  },
+  {
+   "id": "v:ひと:人",
+   "jp": "人",
+   "kana": "ひと",
+   "en": [
+    "person"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 13
+  },
+  {
+   "id": "v:にほん:日本",
+   "jp": "日本",
+   "kana": "にほん",
+   "en": [
+    "Japan"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 14
+  },
+  {
+   "id": "v:にほんじん:日本人",
+   "jp": "日本人",
+   "kana": "にほんじん",
+   "en": [
+    "Japanese person"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 15
+  },
+  {
+   "id": "v:くに:国",
+   "jp": "国",
+   "kana": "くに",
+   "en": [
+    "country"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 16
+  },
+  {
+   "id": "v:えいご:英語",
+   "jp": "英語",
+   "kana": "えいご",
+   "en": [
+    "English language"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 17
+  },
+  {
+   "id": "v:にほんご:日本語",
+   "jp": "日本語",
+   "kana": "にほんご",
+   "en": [
+    "Japanese language"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 18
+  },
+  {
+   "id": "v:がくせい:学生",
+   "jp": "学生",
+   "kana": "がくせい",
+   "en": [
+    "student"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 19
+  },
+  {
+   "id": "v:せんせい:先生",
+   "jp": "先生",
+   "kana": "せんせい",
+   "en": [
+    "teacher"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 20
+  },
+  {
+   "id": "v:かいしゃいん:会社員",
+   "jp": "会社員",
+   "kana": "かいしゃいん",
+   "en": [
+    "office worker"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 21
+  },
+  {
+   "id": "v:いしゃ:医者",
+   "jp": "医者",
+   "kana": "いしゃ",
+   "en": [
+    "doctor"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 1,
+   "seq": 22
+  },
+  {
+   "id": "v:いち:一",
+   "jp": "一",
+   "kana": "いち",
+   "en": [
+    "one"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 23
+  },
+  {
+   "id": "v:に:二",
+   "jp": "二",
+   "kana": "に",
+   "en": [
+    "two"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 24
+  },
+  {
+   "id": "v:さん:三",
+   "jp": "三",
+   "kana": "さん",
+   "en": [
+    "three"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 25
+  },
+  {
+   "id": "v:よん:四",
+   "jp": "四",
+   "kana": "よん",
+   "en": [
+    "four"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 26
+  },
+  {
+   "id": "v:ご:五",
+   "jp": "五",
+   "kana": "ご",
+   "en": [
+    "five"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 27
+  },
+  {
+   "id": "v:ろく:六",
+   "jp": "六",
+   "kana": "ろく",
+   "en": [
+    "six"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 28
+  },
+  {
+   "id": "v:なな:七",
+   "jp": "七",
+   "kana": "なな",
+   "en": [
+    "seven"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 29
+  },
+  {
+   "id": "v:はち:八",
+   "jp": "八",
+   "kana": "はち",
+   "en": [
+    "eight"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 30
+  },
+  {
+   "id": "v:きゅう:九",
+   "jp": "九",
+   "kana": "きゅう",
+   "en": [
+    "nine"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 31
+  },
+  {
+   "id": "v:じゅう:十",
+   "jp": "十",
+   "kana": "じゅう",
+   "en": [
+    "ten"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 32
+  },
+  {
+   "id": "v:ひゃく:百",
+   "jp": "百",
+   "kana": "ひゃく",
+   "en": [
+    "hundred"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 33
+  },
+  {
+   "id": "v:せん:千",
+   "jp": "千",
+   "kana": "せん",
+   "en": [
+    "thousand"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 34
+  },
+  {
+   "id": "v:まん:万",
+   "jp": "万",
+   "kana": "まん",
+   "en": [
+    "ten thousand"
+   ],
+   "pos": "num",
+   "pos_name": "number",
+   "unit": 1,
+   "seq": 35
+  },
+  {
+   "id": "v:えき:駅",
+   "jp": "駅",
+   "kana": "えき",
+   "en": [
+    "station"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 36
+  },
+  {
+   "id": "v:でんしゃ:電車",
+   "jp": "電車",
+   "kana": "でんしゃ",
+   "en": [
+    "train"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 37
+  },
+  {
+   "id": "v:バス:バス",
+   "jp": "バス",
+   "kana": "バス",
+   "en": [
+    "bus"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 38
+  },
+  {
+   "id": "v:ちかてつ:地下鉄",
+   "jp": "地下鉄",
+   "kana": "ちかてつ",
+   "en": [
+    "subway"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 39
+  },
+  {
+   "id": "v:タクシー:タクシー",
+   "jp": "タクシー",
+   "kana": "タクシー",
+   "en": [
+    "taxi"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 40
+  },
+  {
+   "id": "v:ひこうき:飛行機",
+   "jp": "飛行機",
+   "kana": "ひこうき",
+   "en": [
+    "airplane"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 41
+  },
+  {
+   "id": "v:くるま:車",
+   "jp": "車",
+   "kana": "くるま",
+   "en": [
+    "car"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 42
+  },
+  {
+   "id": "v:じてんしゃ:自転車",
+   "jp": "自転車",
+   "kana": "じてんしゃ",
+   "en": [
+    "bicycle"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 43
+  },
+  {
+   "id": "v:きっぷ:切符",
+   "jp": "切符",
+   "kana": "きっぷ",
+   "en": [
+    "ticket"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 44
+  },
+  {
+   "id": "v:みぎ:右",
+   "jp": "右",
+   "kana": "みぎ",
+   "en": [
+    "right"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 45
+  },
+  {
+   "id": "v:ひだり:左",
+   "jp": "左",
+   "kana": "ひだり",
+   "en": [
+    "left"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 46
+  },
+  {
+   "id": "v:まえ:前",
+   "jp": "前",
+   "kana": "まえ",
+   "en": [
+    "front",
+    "before"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 47
+  },
+  {
+   "id": "v:うしろ:後ろ",
+   "jp": "後ろ",
+   "kana": "うしろ",
+   "en": [
+    "behind"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 48
+  },
+  {
+   "id": "v:うえ:上",
+   "jp": "上",
+   "kana": "うえ",
+   "en": [
+    "above",
+    "on"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 49
+  },
+  {
+   "id": "v:した:下",
+   "jp": "下",
+   "kana": "した",
+   "en": [
+    "below",
+    "under"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 50
+  },
+  {
+   "id": "v:なか:中",
+   "jp": "中",
+   "kana": "なか",
+   "en": [
+    "inside"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 51
+  },
+  {
+   "id": "v:そと:外",
+   "jp": "外",
+   "kana": "そと",
+   "en": [
+    "outside"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 52
+  },
+  {
+   "id": "v:となり:隣",
+   "jp": "隣",
+   "kana": "となり",
+   "en": [
+    "next to"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 53
+  },
+  {
+   "id": "v:じかん:時間",
+   "jp": "時間",
+   "kana": "じかん",
+   "en": [
+    "time",
+    "hour"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 54
+  },
+  {
+   "id": "v:いま:今",
+   "jp": "今",
+   "kana": "いま",
+   "en": [
+    "now"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 55
+  },
+  {
+   "id": "v:きょう:今日",
+   "jp": "今日",
+   "kana": "きょう",
+   "en": [
+    "today"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 56
+  },
+  {
+   "id": "v:あした:明日",
+   "jp": "明日",
+   "kana": "あした",
+   "en": [
+    "tomorrow"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 57
+  },
+  {
+   "id": "v:きのう:昨日",
+   "jp": "昨日",
+   "kana": "きのう",
+   "en": [
+    "yesterday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 58
+  },
+  {
+   "id": "v:あさ:朝",
+   "jp": "朝",
+   "kana": "あさ",
+   "en": [
+    "morning"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 59
+  },
+  {
+   "id": "v:ひる:昼",
+   "jp": "昼",
+   "kana": "ひる",
+   "en": [
+    "noon",
+    "daytime"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 60
+  },
+  {
+   "id": "v:よる:夜",
+   "jp": "夜",
+   "kana": "よる",
+   "en": [
+    "night"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 61
+  },
+  {
+   "id": "v:ごぜん:午前",
+   "jp": "午前",
+   "kana": "ごぜん",
+   "en": [
+    "a.m.",
+    "morning"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 62
+  },
+  {
+   "id": "v:ごご:午後",
+   "jp": "午後",
+   "kana": "ごご",
+   "en": [
+    "p.m.",
+    "afternoon"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 63
+  },
+  {
+   "id": "v:まいにち:毎日",
+   "jp": "毎日",
+   "kana": "まいにち",
+   "en": [
+    "every day"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 64
+  },
+  {
+   "id": "v:げつようび:月曜日",
+   "jp": "月曜日",
+   "kana": "げつようび",
+   "en": [
+    "Monday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 65
+  },
+  {
+   "id": "v:かようび:火曜日",
+   "jp": "火曜日",
+   "kana": "かようび",
+   "en": [
+    "Tuesday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 66
+  },
+  {
+   "id": "v:すいようび:水曜日",
+   "jp": "水曜日",
+   "kana": "すいようび",
+   "en": [
+    "Wednesday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 67
+  },
+  {
+   "id": "v:もくようび:木曜日",
+   "jp": "木曜日",
+   "kana": "もくようび",
+   "en": [
+    "Thursday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 68
+  },
+  {
+   "id": "v:きんようび:金曜日",
+   "jp": "金曜日",
+   "kana": "きんようび",
+   "en": [
+    "Friday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 69
+  },
+  {
+   "id": "v:どようび:土曜日",
+   "jp": "土曜日",
+   "kana": "どようび",
+   "en": [
+    "Saturday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 70
+  },
+  {
+   "id": "v:にちようび:日曜日",
+   "jp": "日曜日",
+   "kana": "にちようび",
+   "en": [
+    "Sunday"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 2,
+   "seq": 71
+  },
+  {
+   "id": "v:いく:行く",
+   "jp": "行く",
+   "kana": "いく",
+   "en": [
+    "to go"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "u",
+   "masu": "いきます",
+   "seq": 72
+  },
+  {
+   "id": "v:くる:来る",
+   "jp": "来る",
+   "kana": "くる",
+   "en": [
+    "to come"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "irr",
+   "masu": "きます",
+   "seq": 73
+  },
+  {
+   "id": "v:かえる:帰る",
+   "jp": "帰る",
+   "kana": "かえる",
+   "en": [
+    "to return",
+    "to go home"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "u",
+   "masu": "かえります",
+   "seq": 74
+  },
+  {
+   "id": "v:のる:乗る",
+   "jp": "乗る",
+   "kana": "のる",
+   "en": [
+    "to ride",
+    "to get on"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "u",
+   "masu": "のります",
+   "seq": 75
+  },
+  {
+   "id": "v:おりる:降りる",
+   "jp": "降りる",
+   "kana": "おりる",
+   "en": [
+    "to get off"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "ru",
+   "masu": "おります",
+   "seq": 76
+  },
+  {
+   "id": "v:まつ:待つ",
+   "jp": "待つ",
+   "kana": "まつ",
+   "en": [
+    "to wait"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "u",
+   "masu": "まちます",
+   "seq": 77
+  },
+  {
+   "id": "v:あるく:歩く",
+   "jp": "歩く",
+   "kana": "あるく",
+   "en": [
+    "to walk"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 2,
+   "verb_class": "u",
+   "masu": "あるきます",
+   "seq": 78
+  },
+  {
+   "id": "v:たべもの:食べ物",
+   "jp": "食べ物",
+   "kana": "たべもの",
+   "en": [
+    "food"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 79
+  },
+  {
+   "id": "v:のみもの:飲み物",
+   "jp": "飲み物",
+   "kana": "のみもの",
+   "en": [
+    "drink"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 80
+  },
+  {
+   "id": "v:ごはん:ご飯",
+   "jp": "ご飯",
+   "kana": "ごはん",
+   "en": [
+    "rice",
+    "meal"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 81
+  },
+  {
+   "id": "v:パン:パン",
+   "jp": "パン",
+   "kana": "パン",
+   "en": [
+    "bread"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 82
+  },
+  {
+   "id": "v:にく:肉",
+   "jp": "肉",
+   "kana": "にく",
+   "en": [
+    "meat"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 83
+  },
+  {
+   "id": "v:さかな:魚",
+   "jp": "魚",
+   "kana": "さかな",
+   "en": [
+    "fish"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 84
+  },
+  {
+   "id": "v:やさい:野菜",
+   "jp": "野菜",
+   "kana": "やさい",
+   "en": [
+    "vegetable"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 85
+  },
+  {
+   "id": "v:くだもの:果物",
+   "jp": "果物",
+   "kana": "くだもの",
+   "en": [
+    "fruit"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 86
+  },
+  {
+   "id": "v:たまご:卵",
+   "jp": "卵",
+   "kana": "たまご",
+   "en": [
+    "egg"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 87
+  },
+  {
+   "id": "v:みず:水",
+   "jp": "水",
+   "kana": "みず",
+   "en": [
+    "water"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 88
+  },
+  {
+   "id": "v:おちゃ:お茶",
+   "jp": "お茶",
+   "kana": "おちゃ",
+   "en": [
+    "tea"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 89
+  },
+  {
+   "id": "v:コーヒー:コーヒー",
+   "jp": "コーヒー",
+   "kana": "コーヒー",
+   "en": [
+    "coffee"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 90
+  },
+  {
+   "id": "v:ぎゅうにゅう:牛乳",
+   "jp": "牛乳",
+   "kana": "ぎゅうにゅう",
+   "en": [
+    "milk"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 91
+  },
+  {
+   "id": "v:ビール:ビール",
+   "jp": "ビール",
+   "kana": "ビール",
+   "en": [
+    "beer"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 92
+  },
+  {
+   "id": "v:おさけ:お酒",
+   "jp": "お酒",
+   "kana": "おさけ",
+   "en": [
+    "alcohol",
+    "sake"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 93
+  },
+  {
+   "id": "v:りょうり:料理",
+   "jp": "料理",
+   "kana": "りょうり",
+   "en": [
+    "cooking",
+    "dish"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 94
+  },
+  {
+   "id": "v:あさごはん:朝ご飯",
+   "jp": "朝ご飯",
+   "kana": "あさごはん",
+   "en": [
+    "breakfast"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 95
+  },
+  {
+   "id": "v:ひるごはん:昼ご飯",
+   "jp": "昼ご飯",
+   "kana": "ひるごはん",
+   "en": [
+    "lunch"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 96
+  },
+  {
+   "id": "v:ばんごはん:晩ご飯",
+   "jp": "晩ご飯",
+   "kana": "ばんごはん",
+   "en": [
+    "dinner"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 97
+  },
+  {
+   "id": "v:レストラン:レストラン",
+   "jp": "レストラン",
+   "kana": "レストラン",
+   "en": [
+    "restaurant"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 98
+  },
+  {
+   "id": "v:みせ:店",
+   "jp": "店",
+   "kana": "みせ",
+   "en": [
+    "shop",
+    "store"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 3,
+   "seq": 99
+  },
+  {
+   "id": "v:たべる:食べる",
+   "jp": "食べる",
+   "kana": "たべる",
+   "en": [
+    "to eat"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 3,
+   "verb_class": "ru",
+   "masu": "たべます",
+   "seq": 100
+  },
+  {
+   "id": "v:のむ:飲む",
+   "jp": "飲む",
+   "kana": "のむ",
+   "en": [
+    "to drink"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 3,
+   "verb_class": "u",
+   "masu": "のみます",
+   "seq": 101
+  },
+  {
+   "id": "v:つくる:作る",
+   "jp": "作る",
+   "kana": "つくる",
+   "en": [
+    "to make"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 3,
+   "verb_class": "u",
+   "masu": "つくります",
+   "seq": 102
+  },
+  {
+   "id": "v:かう:買う",
+   "jp": "買う",
+   "kana": "かう",
+   "en": [
+    "to buy"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 3,
+   "verb_class": "u",
+   "masu": "かいます",
+   "seq": 103
+  },
+  {
+   "id": "v:おいしい:おいしい",
+   "jp": "おいしい",
+   "kana": "おいしい",
+   "en": [
+    "delicious",
+    "tasty"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 3,
+   "seq": 104
+  },
+  {
+   "id": "v:あまい:甘い",
+   "jp": "甘い",
+   "kana": "あまい",
+   "en": [
+    "sweet"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 3,
+   "seq": 105
+  },
+  {
+   "id": "v:からい:辛い",
+   "jp": "辛い",
+   "kana": "からい",
+   "en": [
+    "spicy",
+    "hot"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 3,
+   "seq": 106
+  },
+  {
+   "id": "v:たかい:高い",
+   "jp": "高い",
+   "kana": "たかい",
+   "en": [
+    "expensive",
+    "tall"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 3,
+   "seq": 107
+  },
+  {
+   "id": "v:やすい:安い",
+   "jp": "安い",
+   "kana": "やすい",
+   "en": [
+    "cheap"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 3,
+   "seq": 108
+  },
+  {
+   "id": "v:ほん:本",
+   "jp": "本",
+   "kana": "ほん",
+   "en": [
+    "book"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 109
+  },
+  {
+   "id": "v:しんぶん:新聞",
+   "jp": "新聞",
+   "kana": "しんぶん",
+   "en": [
+    "newspaper"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 110
+  },
+  {
+   "id": "v:ざっし:雑誌",
+   "jp": "雑誌",
+   "kana": "ざっし",
+   "en": [
+    "magazine"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 111
+  },
+  {
+   "id": "v:じしょ:辞書",
+   "jp": "辞書",
+   "kana": "じしょ",
+   "en": [
+    "dictionary"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 112
+  },
+  {
+   "id": "v:かばん:かばん",
+   "jp": "かばん",
+   "kana": "かばん",
+   "en": [
+    "bag"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 113
+  },
+  {
+   "id": "v:さいふ:財布",
+   "jp": "財布",
+   "kana": "さいふ",
+   "en": [
+    "wallet"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 114
+  },
+  {
+   "id": "v:とけい:時計",
+   "jp": "時計",
+   "kana": "とけい",
+   "en": [
+    "clock",
+    "watch"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 115
+  },
+  {
+   "id": "v:かさ:傘",
+   "jp": "傘",
+   "kana": "かさ",
+   "en": [
+    "umbrella"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 116
+  },
+  {
+   "id": "v:くつ:靴",
+   "jp": "靴",
+   "kana": "くつ",
+   "en": [
+    "shoes"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 117
+  },
+  {
+   "id": "v:ふく:服",
+   "jp": "服",
+   "kana": "ふく",
+   "en": [
+    "clothes"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 118
+  },
+  {
+   "id": "v:シャツ:シャツ",
+   "jp": "シャツ",
+   "kana": "シャツ",
+   "en": [
+    "shirt"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 119
+  },
+  {
+   "id": "v:ぼうし:帽子",
+   "jp": "帽子",
+   "kana": "ぼうし",
+   "en": [
+    "hat"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 120
+  },
+  {
+   "id": "v:カメラ:カメラ",
+   "jp": "カメラ",
+   "kana": "カメラ",
+   "en": [
+    "camera"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 121
+  },
+  {
+   "id": "v:テレビ:テレビ",
+   "jp": "テレビ",
+   "kana": "テレビ",
+   "en": [
+    "television"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 122
+  },
+  {
+   "id": "v:ラジオ:ラジオ",
+   "jp": "ラジオ",
+   "kana": "ラジオ",
+   "en": [
+    "radio"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 123
+  },
+  {
+   "id": "v:でんわ:電話",
+   "jp": "電話",
+   "kana": "でんわ",
+   "en": [
+    "telephone"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 124
+  },
+  {
+   "id": "v:おかね:お金",
+   "jp": "お金",
+   "kana": "おかね",
+   "en": [
+    "money"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 125
+  },
+  {
+   "id": "v:えん:円",
+   "jp": "円",
+   "kana": "えん",
+   "en": [
+    "yen"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 4,
+   "seq": 126
+  },
+  {
+   "id": "v:これ:これ",
+   "jp": "これ",
+   "kana": "これ",
+   "en": [
+    "this one"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 127
+  },
+  {
+   "id": "v:それ:それ",
+   "jp": "それ",
+   "kana": "それ",
+   "en": [
+    "that one"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 128
+  },
+  {
+   "id": "v:あれ:あれ",
+   "jp": "あれ",
+   "kana": "あれ",
+   "en": [
+    "that one over there"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 129
+  },
+  {
+   "id": "v:どれ:どれ",
+   "jp": "どれ",
+   "kana": "どれ",
+   "en": [
+    "which one"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 130
+  },
+  {
+   "id": "v:ここ:ここ",
+   "jp": "ここ",
+   "kana": "ここ",
+   "en": [
+    "here"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 131
+  },
+  {
+   "id": "v:そこ:そこ",
+   "jp": "そこ",
+   "kana": "そこ",
+   "en": [
+    "there"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 132
+  },
+  {
+   "id": "v:あそこ:あそこ",
+   "jp": "あそこ",
+   "kana": "あそこ",
+   "en": [
+    "over there"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 133
+  },
+  {
+   "id": "v:どこ:どこ",
+   "jp": "どこ",
+   "kana": "どこ",
+   "en": [
+    "where"
+   ],
+   "pos": "pron",
+   "pos_name": "pronoun",
+   "unit": 4,
+   "seq": 134
+  },
+  {
+   "id": "v:しろい:白い",
+   "jp": "白い",
+   "kana": "しろい",
+   "en": [
+    "white"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 135
+  },
+  {
+   "id": "v:くろい:黒い",
+   "jp": "黒い",
+   "kana": "くろい",
+   "en": [
+    "black"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 136
+  },
+  {
+   "id": "v:あかい:赤い",
+   "jp": "赤い",
+   "kana": "あかい",
+   "en": [
+    "red"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 137
+  },
+  {
+   "id": "v:あおい:青い",
+   "jp": "青い",
+   "kana": "あおい",
+   "en": [
+    "blue"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 138
+  },
+  {
+   "id": "v:おおきい:大きい",
+   "jp": "大きい",
+   "kana": "おおきい",
+   "en": [
+    "big"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 139
+  },
+  {
+   "id": "v:ちいさい:小さい",
+   "jp": "小さい",
+   "kana": "ちいさい",
+   "en": [
+    "small"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 140
+  },
+  {
+   "id": "v:あたらしい:新しい",
+   "jp": "新しい",
+   "kana": "あたらしい",
+   "en": [
+    "new"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 141
+  },
+  {
+   "id": "v:ふるい:古い",
+   "jp": "古い",
+   "kana": "ふるい",
+   "en": [
+    "old"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 142
+  },
+  {
+   "id": "v:ながい:長い",
+   "jp": "長い",
+   "kana": "ながい",
+   "en": [
+    "long"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 143
+  },
+  {
+   "id": "v:みじかい:短い",
+   "jp": "短い",
+   "kana": "みじかい",
+   "en": [
+    "short"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 4,
+   "seq": 144
+  },
+  {
+   "id": "v:がっこう:学校",
+   "jp": "学校",
+   "kana": "がっこう",
+   "en": [
+    "school"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 145
+  },
+  {
+   "id": "v:だいがく:大学",
+   "jp": "大学",
+   "kana": "だいがく",
+   "en": [
+    "university"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 146
+  },
+  {
+   "id": "v:きょうしつ:教室",
+   "jp": "教室",
+   "kana": "きょうしつ",
+   "en": [
+    "classroom"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 147
+  },
+  {
+   "id": "v:としょかん:図書館",
+   "jp": "図書館",
+   "kana": "としょかん",
+   "en": [
+    "library"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 148
+  },
+  {
+   "id": "v:べんきょう:勉強",
+   "jp": "勉強",
+   "kana": "べんきょう",
+   "en": [
+    "study"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 149
+  },
+  {
+   "id": "v:しゅくだい:宿題",
+   "jp": "宿題",
+   "kana": "しゅくだい",
+   "en": [
+    "homework"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 150
+  },
+  {
+   "id": "v:かんじ:漢字",
+   "jp": "漢字",
+   "kana": "かんじ",
+   "en": [
+    "kanji"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 151
+  },
+  {
+   "id": "v:ことば:言葉",
+   "jp": "言葉",
+   "kana": "ことば",
+   "en": [
+    "word",
+    "language"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 152
+  },
+  {
+   "id": "v:しつもん:質問",
+   "jp": "質問",
+   "kana": "しつもん",
+   "en": [
+    "question"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 153
+  },
+  {
+   "id": "v:えんぴつ:鉛筆",
+   "jp": "鉛筆",
+   "kana": "えんぴつ",
+   "en": [
+    "pencil"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 154
+  },
+  {
+   "id": "v:かみ:紙",
+   "jp": "紙",
+   "kana": "かみ",
+   "en": [
+    "paper"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 155
+  },
+  {
+   "id": "v:つくえ:机",
+   "jp": "机",
+   "kana": "つくえ",
+   "en": [
+    "desk"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 156
+  },
+  {
+   "id": "v:いす:椅子",
+   "jp": "椅子",
+   "kana": "いす",
+   "en": [
+    "chair"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 157
+  },
+  {
+   "id": "v:まど:窓",
+   "jp": "窓",
+   "kana": "まど",
+   "en": [
+    "window"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 5,
+   "seq": 158
+  },
+  {
+   "id": "v:よむ:読む",
+   "jp": "読む",
+   "kana": "よむ",
+   "en": [
+    "to read"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "よみます",
+   "seq": 159
+  },
+  {
+   "id": "v:かく:書く",
+   "jp": "書く",
+   "kana": "かく",
+   "en": [
+    "to write"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "かきます",
+   "seq": 160
+  },
+  {
+   "id": "v:はなす:話す",
+   "jp": "話す",
+   "kana": "はなす",
+   "en": [
+    "to speak",
+    "to talk"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "はなします",
+   "seq": 161
+  },
+  {
+   "id": "v:きく:聞く",
+   "jp": "聞く",
+   "kana": "きく",
+   "en": [
+    "to listen",
+    "to ask"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "ききます",
+   "seq": 162
+  },
+  {
+   "id": "v:みる:見る",
+   "jp": "見る",
+   "kana": "みる",
+   "en": [
+    "to see",
+    "to watch"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "ru",
+   "masu": "みます",
+   "seq": 163
+  },
+  {
+   "id": "v:わかる:分かる",
+   "jp": "分かる",
+   "kana": "わかる",
+   "en": [
+    "to understand"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "わかります",
+   "seq": 164
+  },
+  {
+   "id": "v:おしえる:教える",
+   "jp": "教える",
+   "kana": "おしえる",
+   "en": [
+    "to teach"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "ru",
+   "masu": "おしえます",
+   "seq": 165
+  },
+  {
+   "id": "v:ならう:習う",
+   "jp": "習う",
+   "kana": "ならう",
+   "en": [
+    "to learn"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "ならいます",
+   "seq": 166
+  },
+  {
+   "id": "v:おぼえる:覚える",
+   "jp": "覚える",
+   "kana": "おぼえる",
+   "en": [
+    "to memorise",
+    "to learn"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "ru",
+   "masu": "おぼえます",
+   "seq": 167
+  },
+  {
+   "id": "v:わすれる:忘れる",
+   "jp": "忘れる",
+   "kana": "わすれる",
+   "en": [
+    "to forget"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "ru",
+   "masu": "わすれます",
+   "seq": 168
+  },
+  {
+   "id": "v:つかう:使う",
+   "jp": "使う",
+   "kana": "つかう",
+   "en": [
+    "to use"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "u",
+   "masu": "つかいます",
+   "seq": 169
+  },
+  {
+   "id": "v:する:する",
+   "jp": "する",
+   "kana": "する",
+   "en": [
+    "to do"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "irr",
+   "masu": "します",
+   "seq": 170
+  },
+  {
+   "id": "v:べんきょうする:勉強する",
+   "jp": "勉強する",
+   "kana": "べんきょうする",
+   "en": [
+    "to study"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 5,
+   "verb_class": "irr",
+   "masu": "べんきょうします",
+   "seq": 171
+  },
+  {
+   "id": "v:むずかしい:難しい",
+   "jp": "難しい",
+   "kana": "むずかしい",
+   "en": [
+    "difficult"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 5,
+   "seq": 172
+  },
+  {
+   "id": "v:やさしい:易しい",
+   "jp": "易しい",
+   "kana": "やさしい",
+   "en": [
+    "easy"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 5,
+   "seq": 173
+  },
+  {
+   "id": "v:おもしろい:面白い",
+   "jp": "面白い",
+   "kana": "おもしろい",
+   "en": [
+    "interesting",
+    "fun"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 5,
+   "seq": 174
+  },
+  {
+   "id": "v:つまらない:つまらない",
+   "jp": "つまらない",
+   "kana": "つまらない",
+   "en": [
+    "boring"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 5,
+   "seq": 175
+  },
+  {
+   "id": "v:いそがしい:忙しい",
+   "jp": "忙しい",
+   "kana": "いそがしい",
+   "en": [
+    "busy"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 5,
+   "seq": 176
+  },
+  {
+   "id": "v:いえ:家",
+   "jp": "家",
+   "kana": "いえ",
+   "en": [
+    "house"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 177
+  },
+  {
+   "id": "v:へや:部屋",
+   "jp": "部屋",
+   "kana": "へや",
+   "en": [
+    "room"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 178
+  },
+  {
+   "id": "v:だいどころ:台所",
+   "jp": "台所",
+   "kana": "だいどころ",
+   "en": [
+    "kitchen"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 179
+  },
+  {
+   "id": "v:おふろ:お風呂",
+   "jp": "お風呂",
+   "kana": "おふろ",
+   "en": [
+    "bath"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 180
+  },
+  {
+   "id": "v:にわ:庭",
+   "jp": "庭",
+   "kana": "にわ",
+   "en": [
+    "garden"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 181
+  },
+  {
+   "id": "v:かぞく:家族",
+   "jp": "家族",
+   "kana": "かぞく",
+   "en": [
+    "family"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 182
+  },
+  {
+   "id": "v:ちち:父",
+   "jp": "父",
+   "kana": "ちち",
+   "en": [
+    "my father"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 183
+  },
+  {
+   "id": "v:はは:母",
+   "jp": "母",
+   "kana": "はは",
+   "en": [
+    "my mother"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 184
+  },
+  {
+   "id": "v:あに:兄",
+   "jp": "兄",
+   "kana": "あに",
+   "en": [
+    "my older brother"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 185
+  },
+  {
+   "id": "v:あね:姉",
+   "jp": "姉",
+   "kana": "あね",
+   "en": [
+    "my older sister"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 186
+  },
+  {
+   "id": "v:おとうと:弟",
+   "jp": "弟",
+   "kana": "おとうと",
+   "en": [
+    "my younger brother"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 187
+  },
+  {
+   "id": "v:いもうと:妹",
+   "jp": "妹",
+   "kana": "いもうと",
+   "en": [
+    "my younger sister"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 188
+  },
+  {
+   "id": "v:こども:子供",
+   "jp": "子供",
+   "kana": "こども",
+   "en": [
+    "child"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 189
+  },
+  {
+   "id": "v:おとこ:男",
+   "jp": "男",
+   "kana": "おとこ",
+   "en": [
+    "man",
+    "male"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 190
+  },
+  {
+   "id": "v:おんな:女",
+   "jp": "女",
+   "kana": "おんな",
+   "en": [
+    "woman",
+    "female"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 191
+  },
+  {
+   "id": "v:ともだち:友達",
+   "jp": "友達",
+   "kana": "ともだち",
+   "en": [
+    "friend"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 192
+  },
+  {
+   "id": "v:ねこ:猫",
+   "jp": "猫",
+   "kana": "ねこ",
+   "en": [
+    "cat"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 193
+  },
+  {
+   "id": "v:いぬ:犬",
+   "jp": "犬",
+   "kana": "いぬ",
+   "en": [
+    "dog"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 194
+  },
+  {
+   "id": "v:とり:鳥",
+   "jp": "鳥",
+   "kana": "とり",
+   "en": [
+    "bird"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 6,
+   "seq": 195
+  },
+  {
+   "id": "v:ある:ある",
+   "jp": "ある",
+   "kana": "ある",
+   "en": [
+    "to be",
+    "to exist (things)"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "u",
+   "masu": "あります",
+   "seq": 196
+  },
+  {
+   "id": "v:いる:いる",
+   "jp": "いる",
+   "kana": "いる",
+   "en": [
+    "to be",
+    "to exist (living)"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "ru",
+   "masu": "います",
+   "seq": 197
+  },
+  {
+   "id": "v:すむ:住む",
+   "jp": "住む",
+   "kana": "すむ",
+   "en": [
+    "to live",
+    "to reside"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "u",
+   "masu": "すみます",
+   "seq": 198
+  },
+  {
+   "id": "v:おきる:起きる",
+   "jp": "起きる",
+   "kana": "おきる",
+   "en": [
+    "to get up",
+    "to wake up"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "ru",
+   "masu": "おきます",
+   "seq": 199
+  },
+  {
+   "id": "v:ねる:寝る",
+   "jp": "寝る",
+   "kana": "ねる",
+   "en": [
+    "to sleep",
+    "to go to bed"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "ru",
+   "masu": "ねます",
+   "seq": 200
+  },
+  {
+   "id": "v:はいる:入る",
+   "jp": "入る",
+   "kana": "はいる",
+   "en": [
+    "to enter"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "u",
+   "masu": "はいります",
+   "seq": 201
+  },
+  {
+   "id": "v:でる:出る",
+   "jp": "出る",
+   "kana": "でる",
+   "en": [
+    "to leave",
+    "to go out"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "ru",
+   "masu": "でます",
+   "seq": 202
+  },
+  {
+   "id": "v:あける:開ける",
+   "jp": "開ける",
+   "kana": "あける",
+   "en": [
+    "to open"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "ru",
+   "masu": "あけます",
+   "seq": 203
+  },
+  {
+   "id": "v:しめる:閉める",
+   "jp": "閉める",
+   "kana": "しめる",
+   "en": [
+    "to close"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 6,
+   "verb_class": "ru",
+   "masu": "しめます",
+   "seq": 204
+  },
+  {
+   "id": "v:きれい:きれい",
+   "jp": "きれい",
+   "kana": "きれい",
+   "en": [
+    "pretty",
+    "clean"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 6,
+   "seq": 205
+  },
+  {
+   "id": "v:しずか:静か",
+   "jp": "静か",
+   "kana": "しずか",
+   "en": [
+    "quiet"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 6,
+   "seq": 206
+  },
+  {
+   "id": "v:にぎやか:にぎやか",
+   "jp": "にぎやか",
+   "kana": "にぎやか",
+   "en": [
+    "lively",
+    "bustling"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 6,
+   "seq": 207
+  },
+  {
+   "id": "v:げんき:元気",
+   "jp": "元気",
+   "kana": "げんき",
+   "en": [
+    "well",
+    "healthy",
+    "energetic"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 6,
+   "seq": 208
+  },
+  {
+   "id": "v:ひろい:広い",
+   "jp": "広い",
+   "kana": "ひろい",
+   "en": [
+    "spacious",
+    "wide"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 6,
+   "seq": 209
+  },
+  {
+   "id": "v:せまい:狭い",
+   "jp": "狭い",
+   "kana": "せまい",
+   "en": [
+    "narrow",
+    "cramped"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 6,
+   "seq": 210
+  },
+  {
+   "id": "v:まち:町",
+   "jp": "町",
+   "kana": "まち",
+   "en": [
+    "town"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 211
+  },
+  {
+   "id": "v:こうえん:公園",
+   "jp": "公園",
+   "kana": "こうえん",
+   "en": [
+    "park"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 212
+  },
+  {
+   "id": "v:びょういん:病院",
+   "jp": "病院",
+   "kana": "びょういん",
+   "en": [
+    "hospital"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 213
+  },
+  {
+   "id": "v:ぎんこう:銀行",
+   "jp": "銀行",
+   "kana": "ぎんこう",
+   "en": [
+    "bank"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 214
+  },
+  {
+   "id": "v:ゆうびんきょく:郵便局",
+   "jp": "郵便局",
+   "kana": "ゆうびんきょく",
+   "en": [
+    "post office"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 215
+  },
+  {
+   "id": "v:デパート:デパート",
+   "jp": "デパート",
+   "kana": "デパート",
+   "en": [
+    "department store"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 216
+  },
+  {
+   "id": "v:ホテル:ホテル",
+   "jp": "ホテル",
+   "kana": "ホテル",
+   "en": [
+    "hotel"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 217
+  },
+  {
+   "id": "v:かいしゃ:会社",
+   "jp": "会社",
+   "kana": "かいしゃ",
+   "en": [
+    "company"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 218
+  },
+  {
+   "id": "v:やま:山",
+   "jp": "山",
+   "kana": "やま",
+   "en": [
+    "mountain"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 219
+  },
+  {
+   "id": "v:かわ:川",
+   "jp": "川",
+   "kana": "かわ",
+   "en": [
+    "river"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 220
+  },
+  {
+   "id": "v:うみ:海",
+   "jp": "海",
+   "kana": "うみ",
+   "en": [
+    "sea",
+    "ocean"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 221
+  },
+  {
+   "id": "v:そら:空",
+   "jp": "空",
+   "kana": "そら",
+   "en": [
+    "sky"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 222
+  },
+  {
+   "id": "v:てんき:天気",
+   "jp": "天気",
+   "kana": "てんき",
+   "en": [
+    "weather"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 223
+  },
+  {
+   "id": "v:あめ:雨",
+   "jp": "雨",
+   "kana": "あめ",
+   "en": [
+    "rain"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 224
+  },
+  {
+   "id": "v:ゆき:雪",
+   "jp": "雪",
+   "kana": "ゆき",
+   "en": [
+    "snow"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 225
+  },
+  {
+   "id": "v:かぜ:風",
+   "jp": "風",
+   "kana": "かぜ",
+   "en": [
+    "wind"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 226
+  },
+  {
+   "id": "v:はる:春",
+   "jp": "春",
+   "kana": "はる",
+   "en": [
+    "spring"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 227
+  },
+  {
+   "id": "v:なつ:夏",
+   "jp": "夏",
+   "kana": "なつ",
+   "en": [
+    "summer"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 228
+  },
+  {
+   "id": "v:あき:秋",
+   "jp": "秋",
+   "kana": "あき",
+   "en": [
+    "autumn",
+    "fall"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 229
+  },
+  {
+   "id": "v:ふゆ:冬",
+   "jp": "冬",
+   "kana": "ふゆ",
+   "en": [
+    "winter"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 7,
+   "seq": 230
+  },
+  {
+   "id": "v:あそぶ:遊ぶ",
+   "jp": "遊ぶ",
+   "kana": "あそぶ",
+   "en": [
+    "to play",
+    "to hang out"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 7,
+   "verb_class": "u",
+   "masu": "あそびます",
+   "seq": 231
+  },
+  {
+   "id": "v:およぐ:泳ぐ",
+   "jp": "泳ぐ",
+   "kana": "およぐ",
+   "en": [
+    "to swim"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 7,
+   "verb_class": "u",
+   "masu": "およぎます",
+   "seq": 232
+  },
+  {
+   "id": "v:とる:撮る",
+   "jp": "撮る",
+   "kana": "とる",
+   "en": [
+    "to take (a photo)"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 7,
+   "verb_class": "u",
+   "masu": "とります",
+   "seq": 233
+  },
+  {
+   "id": "v:あう:会う",
+   "jp": "会う",
+   "kana": "あう",
+   "en": [
+    "to meet"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 7,
+   "verb_class": "u",
+   "masu": "あいます",
+   "seq": 234
+  },
+  {
+   "id": "v:あつい:暑い",
+   "jp": "暑い",
+   "kana": "あつい",
+   "en": [
+    "hot (weather)"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 235
+  },
+  {
+   "id": "v:さむい:寒い",
+   "jp": "寒い",
+   "kana": "さむい",
+   "en": [
+    "cold (weather)"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 236
+  },
+  {
+   "id": "v:いい:いい",
+   "jp": "いい",
+   "kana": "いい",
+   "en": [
+    "good"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 237
+  },
+  {
+   "id": "v:わるい:悪い",
+   "jp": "悪い",
+   "kana": "わるい",
+   "en": [
+    "bad"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 238
+  },
+  {
+   "id": "v:たのしい:楽しい",
+   "jp": "楽しい",
+   "kana": "たのしい",
+   "en": [
+    "fun",
+    "enjoyable"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 239
+  },
+  {
+   "id": "v:きたない:汚い",
+   "jp": "汚い",
+   "kana": "きたない",
+   "en": [
+    "dirty"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 240
+  },
+  {
+   "id": "v:ちかい:近い",
+   "jp": "近い",
+   "kana": "ちかい",
+   "en": [
+    "near",
+    "close"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 241
+  },
+  {
+   "id": "v:とおい:遠い",
+   "jp": "遠い",
+   "kana": "とおい",
+   "en": [
+    "far"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 7,
+   "seq": 242
+  },
+  {
+   "id": "v:からだ:体",
+   "jp": "体",
+   "kana": "からだ",
+   "en": [
+    "body"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 243
+  },
+  {
+   "id": "v:あたま:頭",
+   "jp": "頭",
+   "kana": "あたま",
+   "en": [
+    "head"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 244
+  },
+  {
+   "id": "v:め:目",
+   "jp": "目",
+   "kana": "め",
+   "en": [
+    "eye"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 245
+  },
+  {
+   "id": "v:みみ:耳",
+   "jp": "耳",
+   "kana": "みみ",
+   "en": [
+    "ear"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 246
+  },
+  {
+   "id": "v:くち:口",
+   "jp": "口",
+   "kana": "くち",
+   "en": [
+    "mouth"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 247
+  },
+  {
+   "id": "v:て:手",
+   "jp": "手",
+   "kana": "て",
+   "en": [
+    "hand"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 248
+  },
+  {
+   "id": "v:あし:足",
+   "jp": "足",
+   "kana": "あし",
+   "en": [
+    "foot",
+    "leg"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 249
+  },
+  {
+   "id": "v:かお:顔",
+   "jp": "顔",
+   "kana": "かお",
+   "en": [
+    "face"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 250
+  },
+  {
+   "id": "v:びょうき:病気",
+   "jp": "病気",
+   "kana": "びょうき",
+   "en": [
+    "illness"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 251
+  },
+  {
+   "id": "v:くすり:薬",
+   "jp": "薬",
+   "kana": "くすり",
+   "en": [
+    "medicine"
+   ],
+   "pos": "n",
+   "pos_name": "noun",
+   "unit": 8,
+   "seq": 252
+  },
+  {
+   "id": "v:やすむ:休む",
+   "jp": "休む",
+   "kana": "やすむ",
+   "en": [
+    "to rest",
+    "to take a day off"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "やすみます",
+   "seq": 253
+  },
+  {
+   "id": "v:はたらく:働く",
+   "jp": "働く",
+   "kana": "はたらく",
+   "en": [
+    "to work"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "はたらきます",
+   "seq": 254
+  },
+  {
+   "id": "v:あらう:洗う",
+   "jp": "洗う",
+   "kana": "あらう",
+   "en": [
+    "to wash"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "あらいます",
+   "seq": 255
+  },
+  {
+   "id": "v:すわる:座る",
+   "jp": "座る",
+   "kana": "すわる",
+   "en": [
+    "to sit"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "すわります",
+   "seq": 256
+  },
+  {
+   "id": "v:たつ:立つ",
+   "jp": "立つ",
+   "kana": "たつ",
+   "en": [
+    "to stand"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "たちます",
+   "seq": 257
+  },
+  {
+   "id": "v:もつ:持つ",
+   "jp": "持つ",
+   "kana": "もつ",
+   "en": [
+    "to hold",
+    "to carry"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "もちます",
+   "seq": 258
+  },
+  {
+   "id": "v:かす:貸す",
+   "jp": "貸す",
+   "kana": "かす",
+   "en": [
+    "to lend"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "u",
+   "masu": "かします",
+   "seq": 259
+  },
+  {
+   "id": "v:かりる:借りる",
+   "jp": "借りる",
+   "kana": "かりる",
+   "en": [
+    "to borrow"
+   ],
+   "pos": "v",
+   "pos_name": "verb",
+   "unit": 8,
+   "verb_class": "ru",
+   "masu": "かります",
+   "seq": 260
+  },
+  {
+   "id": "v:いたい:痛い",
+   "jp": "痛い",
+   "kana": "いたい",
+   "en": [
+    "painful",
+    "sore"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 8,
+   "seq": 261
+  },
+  {
+   "id": "v:つよい:強い",
+   "jp": "強い",
+   "kana": "つよい",
+   "en": [
+    "strong"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 8,
+   "seq": 262
+  },
+  {
+   "id": "v:よわい:弱い",
+   "jp": "弱い",
+   "kana": "よわい",
+   "en": [
+    "weak"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 8,
+   "seq": 263
+  },
+  {
+   "id": "v:ねむい:眠い",
+   "jp": "眠い",
+   "kana": "ねむい",
+   "en": [
+    "sleepy"
+   ],
+   "pos": "ia",
+   "pos_name": "i-adjective",
+   "unit": 8,
+   "seq": 264
+  },
+  {
+   "id": "v:すき:好き",
+   "jp": "好き",
+   "kana": "すき",
+   "en": [
+    "liked",
+    "favourite"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 265
+  },
+  {
+   "id": "v:きらい:嫌い",
+   "jp": "嫌い",
+   "kana": "きらい",
+   "en": [
+    "disliked"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 266
+  },
+  {
+   "id": "v:じょうず:上手",
+   "jp": "上手",
+   "kana": "じょうず",
+   "en": [
+    "good at",
+    "skilful"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 267
+  },
+  {
+   "id": "v:へた:下手",
+   "jp": "下手",
+   "kana": "へた",
+   "en": [
+    "bad at",
+    "unskilful"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 268
+  },
+  {
+   "id": "v:べんり:便利",
+   "jp": "便利",
+   "kana": "べんり",
+   "en": [
+    "convenient"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 269
+  },
+  {
+   "id": "v:ゆうめい:有名",
+   "jp": "有名",
+   "kana": "ゆうめい",
+   "en": [
+    "famous"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 270
+  },
+  {
+   "id": "v:しんせつ:親切",
+   "jp": "親切",
+   "kana": "しんせつ",
+   "en": [
+    "kind"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 271
+  },
+  {
+   "id": "v:たいへん:大変",
+   "jp": "大変",
+   "kana": "たいへん",
+   "en": [
+    "tough",
+    "awful"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 272
+  },
+  {
+   "id": "v:だいじょうぶ:大丈夫",
+   "jp": "大丈夫",
+   "kana": "だいじょうぶ",
+   "en": [
+    "all right",
+    "okay"
+   ],
+   "pos": "na",
+   "pos_name": "na-adjective",
+   "unit": 8,
+   "seq": 273
+  }
+ ]
+}

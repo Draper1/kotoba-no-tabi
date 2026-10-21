@@ -1,0 +1,33 @@
+# Maintainer: Andy Draper <6471505+Draper1@users.noreply.github.com>
+pkgname=kotoba-no-tabi
+_pkgname=kotoba
+pkgver=0.1.0
+pkgrel=1
+pkgdesc="言葉の旅 — a terminal adventure for learning Japanese to JLPT N5"
+arch=('any')
+url="https://github.com/Draper1/kotoba-no-tabi"
+license=('MIT')
+depends=('python' 'python-rich')
+makedepends=('python-build' 'python-installer' 'python-wheel' 'python-hatchling')
+checkdepends=()
+# Installs /usr/bin/kotoba, as does the unrelated GNOME dictionary package.
+conflicts=('kotoba')
+source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
+sha256sums=('SKIP')
+
+build() {
+    cd "$pkgname-$pkgver"
+    python -m build --wheel --no-isolation
+}
+
+check() {
+    cd "$pkgname-$pkgver"
+    python tests.py
+}
+
+package() {
+    cd "$pkgname-$pkgver"
+    python -m installer --destdir="$pkgdir" dist/*.whl
+    install -Dm644 LICENSE -t "$pkgdir/usr/share/licenses/$pkgname/"
+    install -Dm644 README.md -t "$pkgdir/usr/share/doc/$pkgname/"
+}

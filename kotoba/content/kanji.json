@@ -1,0 +1,2977 @@
+{
+ "items": [
+  {
+   "id": "k:日",
+   "char": "日",
+   "meanings": [
+    "day",
+    "sun"
+   ],
+   "on": [
+    "ニチ",
+    "ジツ"
+   ],
+   "kun": [
+    "ひ",
+    "か"
+   ],
+   "examples": [
+    {
+     "jp": "日本",
+     "kana": "にほん",
+     "en": "Japan"
+    },
+    {
+     "jp": "今日",
+     "kana": "きょう",
+     "en": "today"
+    },
+    {
+     "jp": "日曜日",
+     "kana": "にちようび",
+     "en": "Sunday"
+    }
+   ],
+   "unit": 1,
+   "seq": 0
+  },
+  {
+   "id": "k:一",
+   "char": "一",
+   "meanings": [
+    "one"
+   ],
+   "on": [
+    "イチ",
+    "イツ"
+   ],
+   "kun": [
+    "ひと"
+   ],
+   "examples": [
+    {
+     "jp": "一つ",
+     "kana": "ひとつ",
+     "en": "one thing"
+    },
+    {
+     "jp": "一人",
+     "kana": "ひとり",
+     "en": "one person"
+    }
+   ],
+   "unit": 1,
+   "seq": 1
+  },
+  {
+   "id": "k:二",
+   "char": "二",
+   "meanings": [
+    "two"
+   ],
+   "on": [
+    "ニ"
+   ],
+   "kun": [
+    "ふた"
+   ],
+   "examples": [
+    {
+     "jp": "二つ",
+     "kana": "ふたつ",
+     "en": "two things"
+    },
+    {
+     "jp": "二人",
+     "kana": "ふたり",
+     "en": "two people"
+    }
+   ],
+   "unit": 1,
+   "seq": 2
+  },
+  {
+   "id": "k:三",
+   "char": "三",
+   "meanings": [
+    "three"
+   ],
+   "on": [
+    "サン"
+   ],
+   "kun": [
+    "み"
+   ],
+   "examples": [
+    {
+     "jp": "三つ",
+     "kana": "みっつ",
+     "en": "three things"
+    },
+    {
+     "jp": "三月",
+     "kana": "さんがつ",
+     "en": "March"
+    }
+   ],
+   "unit": 1,
+   "seq": 3
+  },
+  {
+   "id": "k:四",
+   "char": "四",
+   "meanings": [
+    "four"
+   ],
+   "on": [
+    "シ"
+   ],
+   "kun": [
+    "よ",
+    "よん"
+   ],
+   "examples": [
+    {
+     "jp": "四つ",
+     "kana": "よっつ",
+     "en": "four things"
+    },
+    {
+     "jp": "四月",
+     "kana": "しがつ",
+     "en": "April"
+    }
+   ],
+   "unit": 1,
+   "seq": 4
+  },
+  {
+   "id": "k:五",
+   "char": "五",
+   "meanings": [
+    "five"
+   ],
+   "on": [
+    "ゴ"
+   ],
+   "kun": [
+    "いつ"
+   ],
+   "examples": [
+    {
+     "jp": "五つ",
+     "kana": "いつつ",
+     "en": "five things"
+    },
+    {
+     "jp": "五月",
+     "kana": "ごがつ",
+     "en": "May"
+    }
+   ],
+   "unit": 1,
+   "seq": 5
+  },
+  {
+   "id": "k:六",
+   "char": "六",
+   "meanings": [
+    "six"
+   ],
+   "on": [
+    "ロク"
+   ],
+   "kun": [
+    "む"
+   ],
+   "examples": [
+    {
+     "jp": "六つ",
+     "kana": "むっつ",
+     "en": "six things"
+    },
+    {
+     "jp": "六月",
+     "kana": "ろくがつ",
+     "en": "June"
+    }
+   ],
+   "unit": 1,
+   "seq": 6
+  },
+  {
+   "id": "k:七",
+   "char": "七",
+   "meanings": [
+    "seven"
+   ],
+   "on": [
+    "シチ"
+   ],
+   "kun": [
+    "なな"
+   ],
+   "examples": [
+    {
+     "jp": "七つ",
+     "kana": "ななつ",
+     "en": "seven things"
+    },
+    {
+     "jp": "七月",
+     "kana": "しちがつ",
+     "en": "July"
+    }
+   ],
+   "unit": 1,
+   "seq": 7
+  },
+  {
+   "id": "k:八",
+   "char": "八",
+   "meanings": [
+    "eight"
+   ],
+   "on": [
+    "ハチ"
+   ],
+   "kun": [
+    "やっ",
+    "よう"
+   ],
+   "examples": [
+    {
+     "jp": "八つ",
+     "kana": "やっつ",
+     "en": "eight things"
+    },
+    {
+     "jp": "八月",
+     "kana": "はちがつ",
+     "en": "August"
+    }
+   ],
+   "unit": 1,
+   "seq": 8
+  },
+  {
+   "id": "k:九",
+   "char": "九",
+   "meanings": [
+    "nine"
+   ],
+   "on": [
+    "キュウ",
+    "ク"
+   ],
+   "kun": [
+    "ここの"
+   ],
+   "examples": [
+    {
+     "jp": "九つ",
+     "kana": "ここのつ",
+     "en": "nine things"
+    },
+    {
+     "jp": "九月",
+     "kana": "くがつ",
+     "en": "September"
+    }
+   ],
+   "unit": 1,
+   "seq": 9
+  },
+  {
+   "id": "k:十",
+   "char": "十",
+   "meanings": [
+    "ten"
+   ],
+   "on": [
+    "ジュウ"
+   ],
+   "kun": [
+    "とお"
+   ],
+   "examples": [
+    {
+     "jp": "十",
+     "kana": "じゅう",
+     "en": "ten"
+    },
+    {
+     "jp": "十日",
+     "kana": "とおか",
+     "en": "tenth day"
+    }
+   ],
+   "unit": 1,
+   "seq": 10
+  },
+  {
+   "id": "k:百",
+   "char": "百",
+   "meanings": [
+    "hundred"
+   ],
+   "on": [
+    "ヒャク"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "百",
+     "kana": "ひゃく",
+     "en": "hundred"
+    },
+    {
+     "jp": "三百",
+     "kana": "さんびゃく",
+     "en": "three hundred"
+    }
+   ],
+   "unit": 1,
+   "seq": 11
+  },
+  {
+   "id": "k:千",
+   "char": "千",
+   "meanings": [
+    "thousand"
+   ],
+   "on": [
+    "セン"
+   ],
+   "kun": [
+    "ち"
+   ],
+   "examples": [
+    {
+     "jp": "千",
+     "kana": "せん",
+     "en": "thousand"
+    }
+   ],
+   "unit": 1,
+   "seq": 12
+  },
+  {
+   "id": "k:万",
+   "char": "万",
+   "meanings": [
+    "ten thousand"
+   ],
+   "on": [
+    "マン",
+    "バン"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "一万",
+     "kana": "いちまん",
+     "en": "ten thousand"
+    }
+   ],
+   "unit": 1,
+   "seq": 13
+  },
+  {
+   "id": "k:円",
+   "char": "円",
+   "meanings": [
+    "yen",
+    "circle"
+   ],
+   "on": [
+    "エン"
+   ],
+   "kun": [
+    "まる"
+   ],
+   "examples": [
+    {
+     "jp": "円",
+     "kana": "えん",
+     "en": "yen"
+    },
+    {
+     "jp": "百円",
+     "kana": "ひゃくえん",
+     "en": "100 yen"
+    }
+   ],
+   "unit": 1,
+   "seq": 14
+  },
+  {
+   "id": "k:人",
+   "char": "人",
+   "meanings": [
+    "person"
+   ],
+   "on": [
+    "ジン",
+    "ニン"
+   ],
+   "kun": [
+    "ひと"
+   ],
+   "examples": [
+    {
+     "jp": "人",
+     "kana": "ひと",
+     "en": "person"
+    },
+    {
+     "jp": "日本人",
+     "kana": "にほんじん",
+     "en": "Japanese person"
+    }
+   ],
+   "unit": 1,
+   "seq": 15
+  },
+  {
+   "id": "k:名",
+   "char": "名",
+   "meanings": [
+    "name"
+   ],
+   "on": [
+    "メイ"
+   ],
+   "kun": [
+    "な"
+   ],
+   "examples": [
+    {
+     "jp": "名前",
+     "kana": "なまえ",
+     "en": "name"
+    }
+   ],
+   "unit": 1,
+   "seq": 16
+  },
+  {
+   "id": "k:私",
+   "char": "私",
+   "meanings": [
+    "I",
+    "private"
+   ],
+   "on": [
+    "シ"
+   ],
+   "kun": [
+    "わたし"
+   ],
+   "examples": [
+    {
+     "jp": "私",
+     "kana": "わたし",
+     "en": "I"
+    }
+   ],
+   "unit": 1,
+   "seq": 17
+  },
+  {
+   "id": "k:先",
+   "char": "先",
+   "meanings": [
+    "previous",
+    "ahead"
+   ],
+   "on": [
+    "セン"
+   ],
+   "kun": [
+    "さき"
+   ],
+   "examples": [
+    {
+     "jp": "先生",
+     "kana": "せんせい",
+     "en": "teacher"
+    },
+    {
+     "jp": "先月",
+     "kana": "せんげつ",
+     "en": "last month"
+    }
+   ],
+   "unit": 1,
+   "seq": 18
+  },
+  {
+   "id": "k:生",
+   "char": "生",
+   "meanings": [
+    "life",
+    "birth"
+   ],
+   "on": [
+    "セイ",
+    "ショウ"
+   ],
+   "kun": [
+    "い",
+    "う"
+   ],
+   "examples": [
+    {
+     "jp": "学生",
+     "kana": "がくせい",
+     "en": "student"
+    },
+    {
+     "jp": "先生",
+     "kana": "せんせい",
+     "en": "teacher"
+    }
+   ],
+   "unit": 1,
+   "seq": 19
+  },
+  {
+   "id": "k:学",
+   "char": "学",
+   "meanings": [
+    "study",
+    "learning"
+   ],
+   "on": [
+    "ガク"
+   ],
+   "kun": [
+    "まな"
+   ],
+   "examples": [
+    {
+     "jp": "学校",
+     "kana": "がっこう",
+     "en": "school"
+    },
+    {
+     "jp": "大学",
+     "kana": "だいがく",
+     "en": "university"
+    }
+   ],
+   "unit": 1,
+   "seq": 20
+  },
+  {
+   "id": "k:校",
+   "char": "校",
+   "meanings": [
+    "school"
+   ],
+   "on": [
+    "コウ"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "学校",
+     "kana": "がっこう",
+     "en": "school"
+    }
+   ],
+   "unit": 1,
+   "seq": 21
+  },
+  {
+   "id": "k:国",
+   "char": "国",
+   "meanings": [
+    "country"
+   ],
+   "on": [
+    "コク"
+   ],
+   "kun": [
+    "くに"
+   ],
+   "examples": [
+    {
+     "jp": "国",
+     "kana": "くに",
+     "en": "country"
+    },
+    {
+     "jp": "中国",
+     "kana": "ちゅうごく",
+     "en": "China"
+    }
+   ],
+   "unit": 1,
+   "seq": 22
+  },
+  {
+   "id": "k:語",
+   "char": "語",
+   "meanings": [
+    "language"
+   ],
+   "on": [
+    "ゴ"
+   ],
+   "kun": [
+    "かた"
+   ],
+   "examples": [
+    {
+     "jp": "日本語",
+     "kana": "にほんご",
+     "en": "Japanese"
+    },
+    {
+     "jp": "英語",
+     "kana": "えいご",
+     "en": "English"
+    }
+   ],
+   "unit": 1,
+   "seq": 23
+  },
+  {
+   "id": "k:大",
+   "char": "大",
+   "meanings": [
+    "big"
+   ],
+   "on": [
+    "ダイ",
+    "タイ"
+   ],
+   "kun": [
+    "おお"
+   ],
+   "examples": [
+    {
+     "jp": "大きい",
+     "kana": "おおきい",
+     "en": "big"
+    },
+    {
+     "jp": "大学",
+     "kana": "だいがく",
+     "en": "university"
+    }
+   ],
+   "unit": 4,
+   "seq": 24
+  },
+  {
+   "id": "k:小",
+   "char": "小",
+   "meanings": [
+    "small"
+   ],
+   "on": [
+    "ショウ"
+   ],
+   "kun": [
+    "ちい",
+    "こ"
+   ],
+   "examples": [
+    {
+     "jp": "小さい",
+     "kana": "ちいさい",
+     "en": "small"
+    }
+   ],
+   "unit": 4,
+   "seq": 25
+  },
+  {
+   "id": "k:中",
+   "char": "中",
+   "meanings": [
+    "middle",
+    "inside"
+   ],
+   "on": [
+    "チュウ"
+   ],
+   "kun": [
+    "なか"
+   ],
+   "examples": [
+    {
+     "jp": "中",
+     "kana": "なか",
+     "en": "inside"
+    },
+    {
+     "jp": "中国",
+     "kana": "ちゅうごく",
+     "en": "China"
+    }
+   ],
+   "unit": 2,
+   "seq": 26
+  },
+  {
+   "id": "k:上",
+   "char": "上",
+   "meanings": [
+    "above",
+    "up"
+   ],
+   "on": [
+    "ジョウ"
+   ],
+   "kun": [
+    "うえ",
+    "あ",
+    "のぼ"
+   ],
+   "examples": [
+    {
+     "jp": "上",
+     "kana": "うえ",
+     "en": "above"
+    }
+   ],
+   "unit": 2,
+   "seq": 27
+  },
+  {
+   "id": "k:下",
+   "char": "下",
+   "meanings": [
+    "below",
+    "down"
+   ],
+   "on": [
+    "カ",
+    "ゲ"
+   ],
+   "kun": [
+    "した",
+    "さ",
+    "くだ"
+   ],
+   "examples": [
+    {
+     "jp": "下",
+     "kana": "した",
+     "en": "below"
+    }
+   ],
+   "unit": 2,
+   "seq": 28
+  },
+  {
+   "id": "k:右",
+   "char": "右",
+   "meanings": [
+    "right"
+   ],
+   "on": [
+    "ウ",
+    "ユウ"
+   ],
+   "kun": [
+    "みぎ"
+   ],
+   "examples": [
+    {
+     "jp": "右",
+     "kana": "みぎ",
+     "en": "right"
+    }
+   ],
+   "unit": 2,
+   "seq": 29
+  },
+  {
+   "id": "k:左",
+   "char": "左",
+   "meanings": [
+    "left"
+   ],
+   "on": [
+    "サ"
+   ],
+   "kun": [
+    "ひだり"
+   ],
+   "examples": [
+    {
+     "jp": "左",
+     "kana": "ひだり",
+     "en": "left"
+    }
+   ],
+   "unit": 2,
+   "seq": 30
+  },
+  {
+   "id": "k:前",
+   "char": "前",
+   "meanings": [
+    "front",
+    "before"
+   ],
+   "on": [
+    "ゼン"
+   ],
+   "kun": [
+    "まえ"
+   ],
+   "examples": [
+    {
+     "jp": "前",
+     "kana": "まえ",
+     "en": "front"
+    },
+    {
+     "jp": "午前",
+     "kana": "ごぜん",
+     "en": "a.m."
+    }
+   ],
+   "unit": 2,
+   "seq": 31
+  },
+  {
+   "id": "k:後",
+   "char": "後",
+   "meanings": [
+    "after",
+    "behind"
+   ],
+   "on": [
+    "ゴ",
+    "コウ"
+   ],
+   "kun": [
+    "あと",
+    "うし"
+   ],
+   "examples": [
+    {
+     "jp": "午後",
+     "kana": "ごご",
+     "en": "p.m."
+    },
+    {
+     "jp": "後ろ",
+     "kana": "うしろ",
+     "en": "behind"
+    }
+   ],
+   "unit": 2,
+   "seq": 32
+  },
+  {
+   "id": "k:外",
+   "char": "外",
+   "meanings": [
+    "outside"
+   ],
+   "on": [
+    "ガイ"
+   ],
+   "kun": [
+    "そと"
+   ],
+   "examples": [
+    {
+     "jp": "外",
+     "kana": "そと",
+     "en": "outside"
+    },
+    {
+     "jp": "外国",
+     "kana": "がいこく",
+     "en": "foreign country"
+    }
+   ],
+   "unit": 2,
+   "seq": 33
+  },
+  {
+   "id": "k:北",
+   "char": "北",
+   "meanings": [
+    "north"
+   ],
+   "on": [
+    "ホク"
+   ],
+   "kun": [
+    "きた"
+   ],
+   "examples": [
+    {
+     "jp": "北",
+     "kana": "きた",
+     "en": "north"
+    }
+   ],
+   "unit": 7,
+   "seq": 34
+  },
+  {
+   "id": "k:南",
+   "char": "南",
+   "meanings": [
+    "south"
+   ],
+   "on": [
+    "ナン"
+   ],
+   "kun": [
+    "みなみ"
+   ],
+   "examples": [
+    {
+     "jp": "南",
+     "kana": "みなみ",
+     "en": "south"
+    }
+   ],
+   "unit": 7,
+   "seq": 35
+  },
+  {
+   "id": "k:東",
+   "char": "東",
+   "meanings": [
+    "east"
+   ],
+   "on": [
+    "トウ"
+   ],
+   "kun": [
+    "ひがし"
+   ],
+   "examples": [
+    {
+     "jp": "東京",
+     "kana": "とうきょう",
+     "en": "Tokyo"
+    },
+    {
+     "jp": "東",
+     "kana": "ひがし",
+     "en": "east"
+    }
+   ],
+   "unit": 7,
+   "seq": 36
+  },
+  {
+   "id": "k:西",
+   "char": "西",
+   "meanings": [
+    "west"
+   ],
+   "on": [
+    "セイ",
+    "サイ"
+   ],
+   "kun": [
+    "にし"
+   ],
+   "examples": [
+    {
+     "jp": "西",
+     "kana": "にし",
+     "en": "west"
+    }
+   ],
+   "unit": 7,
+   "seq": 37
+  },
+  {
+   "id": "k:月",
+   "char": "月",
+   "meanings": [
+    "moon",
+    "month"
+   ],
+   "on": [
+    "ゲツ",
+    "ガツ"
+   ],
+   "kun": [
+    "つき"
+   ],
+   "examples": [
+    {
+     "jp": "月曜日",
+     "kana": "げつようび",
+     "en": "Monday"
+    },
+    {
+     "jp": "一月",
+     "kana": "いちがつ",
+     "en": "January"
+    }
+   ],
+   "unit": 2,
+   "seq": 38
+  },
+  {
+   "id": "k:火",
+   "char": "火",
+   "meanings": [
+    "fire"
+   ],
+   "on": [
+    "カ"
+   ],
+   "kun": [
+    "ひ"
+   ],
+   "examples": [
+    {
+     "jp": "火曜日",
+     "kana": "かようび",
+     "en": "Tuesday"
+    }
+   ],
+   "unit": 2,
+   "seq": 39
+  },
+  {
+   "id": "k:水",
+   "char": "水",
+   "meanings": [
+    "water"
+   ],
+   "on": [
+    "スイ"
+   ],
+   "kun": [
+    "みず"
+   ],
+   "examples": [
+    {
+     "jp": "水",
+     "kana": "みず",
+     "en": "water"
+    },
+    {
+     "jp": "水曜日",
+     "kana": "すいようび",
+     "en": "Wednesday"
+    }
+   ],
+   "unit": 2,
+   "seq": 40
+  },
+  {
+   "id": "k:木",
+   "char": "木",
+   "meanings": [
+    "tree",
+    "wood"
+   ],
+   "on": [
+    "モク",
+    "ボク"
+   ],
+   "kun": [
+    "き"
+   ],
+   "examples": [
+    {
+     "jp": "木",
+     "kana": "き",
+     "en": "tree"
+    },
+    {
+     "jp": "木曜日",
+     "kana": "もくようび",
+     "en": "Thursday"
+    }
+   ],
+   "unit": 2,
+   "seq": 41
+  },
+  {
+   "id": "k:金",
+   "char": "金",
+   "meanings": [
+    "gold",
+    "money"
+   ],
+   "on": [
+    "キン"
+   ],
+   "kun": [
+    "かね"
+   ],
+   "examples": [
+    {
+     "jp": "お金",
+     "kana": "おかね",
+     "en": "money"
+    },
+    {
+     "jp": "金曜日",
+     "kana": "きんようび",
+     "en": "Friday"
+    }
+   ],
+   "unit": 2,
+   "seq": 42
+  },
+  {
+   "id": "k:土",
+   "char": "土",
+   "meanings": [
+    "earth",
+    "soil"
+   ],
+   "on": [
+    "ド",
+    "ト"
+   ],
+   "kun": [
+    "つち"
+   ],
+   "examples": [
+    {
+     "jp": "土曜日",
+     "kana": "どようび",
+     "en": "Saturday"
+    }
+   ],
+   "unit": 2,
+   "seq": 43
+  },
+  {
+   "id": "k:年",
+   "char": "年",
+   "meanings": [
+    "year"
+   ],
+   "on": [
+    "ネン"
+   ],
+   "kun": [
+    "とし"
+   ],
+   "examples": [
+    {
+     "jp": "今年",
+     "kana": "ことし",
+     "en": "this year"
+    },
+    {
+     "jp": "去年",
+     "kana": "きょねん",
+     "en": "last year"
+    }
+   ],
+   "unit": 2,
+   "seq": 44
+  },
+  {
+   "id": "k:時",
+   "char": "時",
+   "meanings": [
+    "time",
+    "hour"
+   ],
+   "on": [
+    "ジ"
+   ],
+   "kun": [
+    "とき"
+   ],
+   "examples": [
+    {
+     "jp": "時間",
+     "kana": "じかん",
+     "en": "time"
+    },
+    {
+     "jp": "一時",
+     "kana": "いちじ",
+     "en": "one o'clock"
+    }
+   ],
+   "unit": 2,
+   "seq": 45
+  },
+  {
+   "id": "k:分",
+   "char": "分",
+   "meanings": [
+    "minute",
+    "to divide"
+   ],
+   "on": [
+    "ブン",
+    "フン"
+   ],
+   "kun": [
+    "わ"
+   ],
+   "examples": [
+    {
+     "jp": "分かる",
+     "kana": "わかる",
+     "en": "to understand"
+    },
+    {
+     "jp": "五分",
+     "kana": "ごふん",
+     "en": "five minutes"
+    }
+   ],
+   "unit": 2,
+   "seq": 46
+  },
+  {
+   "id": "k:半",
+   "char": "半",
+   "meanings": [
+    "half"
+   ],
+   "on": [
+    "ハン"
+   ],
+   "kun": [
+    "なか"
+   ],
+   "examples": [
+    {
+     "jp": "半分",
+     "kana": "はんぶん",
+     "en": "half"
+    },
+    {
+     "jp": "一時半",
+     "kana": "いちじはん",
+     "en": "half past one"
+    }
+   ],
+   "unit": 2,
+   "seq": 47
+  },
+  {
+   "id": "k:今",
+   "char": "今",
+   "meanings": [
+    "now"
+   ],
+   "on": [
+    "コン"
+   ],
+   "kun": [
+    "いま"
+   ],
+   "examples": [
+    {
+     "jp": "今",
+     "kana": "いま",
+     "en": "now"
+    },
+    {
+     "jp": "今日",
+     "kana": "きょう",
+     "en": "today"
+    }
+   ],
+   "unit": 2,
+   "seq": 48
+  },
+  {
+   "id": "k:毎",
+   "char": "毎",
+   "meanings": [
+    "every"
+   ],
+   "on": [
+    "マイ"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "毎日",
+     "kana": "まいにち",
+     "en": "every day"
+    },
+    {
+     "jp": "毎朝",
+     "kana": "まいあさ",
+     "en": "every morning"
+    }
+   ],
+   "unit": 2,
+   "seq": 49
+  },
+  {
+   "id": "k:週",
+   "char": "週",
+   "meanings": [
+    "week"
+   ],
+   "on": [
+    "シュウ"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "毎週",
+     "kana": "まいしゅう",
+     "en": "every week"
+    },
+    {
+     "jp": "今週",
+     "kana": "こんしゅう",
+     "en": "this week"
+    }
+   ],
+   "unit": 2,
+   "seq": 50
+  },
+  {
+   "id": "k:間",
+   "char": "間",
+   "meanings": [
+    "interval",
+    "between"
+   ],
+   "on": [
+    "カン"
+   ],
+   "kun": [
+    "あいだ"
+   ],
+   "examples": [
+    {
+     "jp": "時間",
+     "kana": "じかん",
+     "en": "time"
+    }
+   ],
+   "unit": 2,
+   "seq": 51
+  },
+  {
+   "id": "k:朝",
+   "char": "朝",
+   "meanings": [
+    "morning"
+   ],
+   "on": [
+    "チョウ"
+   ],
+   "kun": [
+    "あさ"
+   ],
+   "examples": [
+    {
+     "jp": "朝",
+     "kana": "あさ",
+     "en": "morning"
+    },
+    {
+     "jp": "朝ご飯",
+     "kana": "あさごはん",
+     "en": "breakfast"
+    }
+   ],
+   "unit": 2,
+   "seq": 52
+  },
+  {
+   "id": "k:昼",
+   "char": "昼",
+   "meanings": [
+    "noon",
+    "daytime"
+   ],
+   "on": [
+    "チュウ"
+   ],
+   "kun": [
+    "ひる"
+   ],
+   "examples": [
+    {
+     "jp": "昼",
+     "kana": "ひる",
+     "en": "noon"
+    },
+    {
+     "jp": "昼ご飯",
+     "kana": "ひるごはん",
+     "en": "lunch"
+    }
+   ],
+   "unit": 2,
+   "seq": 53
+  },
+  {
+   "id": "k:夕",
+   "char": "夕",
+   "meanings": [
+    "evening"
+   ],
+   "on": [
+    "セキ"
+   ],
+   "kun": [
+    "ゆう"
+   ],
+   "examples": [
+    {
+     "jp": "夕方",
+     "kana": "ゆうがた",
+     "en": "evening"
+    }
+   ],
+   "unit": 2,
+   "seq": 54
+  },
+  {
+   "id": "k:夜",
+   "char": "夜",
+   "meanings": [
+    "night"
+   ],
+   "on": [
+    "ヤ"
+   ],
+   "kun": [
+    "よる"
+   ],
+   "examples": [
+    {
+     "jp": "夜",
+     "kana": "よる",
+     "en": "night"
+    }
+   ],
+   "unit": 2,
+   "seq": 55
+  },
+  {
+   "id": "k:午",
+   "char": "午",
+   "meanings": [
+    "noon"
+   ],
+   "on": [
+    "ゴ"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "午前",
+     "kana": "ごぜん",
+     "en": "a.m."
+    },
+    {
+     "jp": "午後",
+     "kana": "ごご",
+     "en": "p.m."
+    }
+   ],
+   "unit": 2,
+   "seq": 56
+  },
+  {
+   "id": "k:何",
+   "char": "何",
+   "meanings": [
+    "what"
+   ],
+   "on": [
+    "カ"
+   ],
+   "kun": [
+    "なに",
+    "なん"
+   ],
+   "examples": [
+    {
+     "jp": "何",
+     "kana": "なに",
+     "en": "what"
+    },
+    {
+     "jp": "何時",
+     "kana": "なんじ",
+     "en": "what time"
+    }
+   ],
+   "unit": 1,
+   "seq": 57
+  },
+  {
+   "id": "k:男",
+   "char": "男",
+   "meanings": [
+    "man"
+   ],
+   "on": [
+    "ダン",
+    "ナン"
+   ],
+   "kun": [
+    "おとこ"
+   ],
+   "examples": [
+    {
+     "jp": "男",
+     "kana": "おとこ",
+     "en": "man"
+    },
+    {
+     "jp": "男の人",
+     "kana": "おとこのひと",
+     "en": "man"
+    }
+   ],
+   "unit": 6,
+   "seq": 58
+  },
+  {
+   "id": "k:女",
+   "char": "女",
+   "meanings": [
+    "woman"
+   ],
+   "on": [
+    "ジョ"
+   ],
+   "kun": [
+    "おんな"
+   ],
+   "examples": [
+    {
+     "jp": "女",
+     "kana": "おんな",
+     "en": "woman"
+    },
+    {
+     "jp": "女の人",
+     "kana": "おんなのひと",
+     "en": "woman"
+    }
+   ],
+   "unit": 6,
+   "seq": 59
+  },
+  {
+   "id": "k:子",
+   "char": "子",
+   "meanings": [
+    "child"
+   ],
+   "on": [
+    "シ"
+   ],
+   "kun": [
+    "こ"
+   ],
+   "examples": [
+    {
+     "jp": "子供",
+     "kana": "こども",
+     "en": "child"
+    },
+    {
+     "jp": "男の子",
+     "kana": "おとこのこ",
+     "en": "boy"
+    }
+   ],
+   "unit": 6,
+   "seq": 60
+  },
+  {
+   "id": "k:父",
+   "char": "父",
+   "meanings": [
+    "father"
+   ],
+   "on": [
+    "フ"
+   ],
+   "kun": [
+    "ちち"
+   ],
+   "examples": [
+    {
+     "jp": "父",
+     "kana": "ちち",
+     "en": "my father"
+    },
+    {
+     "jp": "お父さん",
+     "kana": "おとうさん",
+     "en": "father"
+    }
+   ],
+   "unit": 6,
+   "seq": 61
+  },
+  {
+   "id": "k:母",
+   "char": "母",
+   "meanings": [
+    "mother"
+   ],
+   "on": [
+    "ボ"
+   ],
+   "kun": [
+    "はは"
+   ],
+   "examples": [
+    {
+     "jp": "母",
+     "kana": "はは",
+     "en": "my mother"
+    },
+    {
+     "jp": "お母さん",
+     "kana": "おかあさん",
+     "en": "mother"
+    }
+   ],
+   "unit": 6,
+   "seq": 62
+  },
+  {
+   "id": "k:兄",
+   "char": "兄",
+   "meanings": [
+    "older brother"
+   ],
+   "on": [
+    "ケイ"
+   ],
+   "kun": [
+    "あに"
+   ],
+   "examples": [
+    {
+     "jp": "兄",
+     "kana": "あに",
+     "en": "my older brother"
+    },
+    {
+     "jp": "お兄さん",
+     "kana": "おにいさん",
+     "en": "older brother"
+    }
+   ],
+   "unit": 6,
+   "seq": 63
+  },
+  {
+   "id": "k:姉",
+   "char": "姉",
+   "meanings": [
+    "older sister"
+   ],
+   "on": [
+    "シ"
+   ],
+   "kun": [
+    "あね"
+   ],
+   "examples": [
+    {
+     "jp": "姉",
+     "kana": "あね",
+     "en": "my older sister"
+    },
+    {
+     "jp": "お姉さん",
+     "kana": "おねえさん",
+     "en": "older sister"
+    }
+   ],
+   "unit": 6,
+   "seq": 64
+  },
+  {
+   "id": "k:弟",
+   "char": "弟",
+   "meanings": [
+    "younger brother"
+   ],
+   "on": [
+    "テイ"
+   ],
+   "kun": [
+    "おとうと"
+   ],
+   "examples": [
+    {
+     "jp": "弟",
+     "kana": "おとうと",
+     "en": "my younger brother"
+    }
+   ],
+   "unit": 6,
+   "seq": 65
+  },
+  {
+   "id": "k:妹",
+   "char": "妹",
+   "meanings": [
+    "younger sister"
+   ],
+   "on": [
+    "マイ"
+   ],
+   "kun": [
+    "いもうと"
+   ],
+   "examples": [
+    {
+     "jp": "妹",
+     "kana": "いもうと",
+     "en": "my younger sister"
+    }
+   ],
+   "unit": 6,
+   "seq": 66
+  },
+  {
+   "id": "k:友",
+   "char": "友",
+   "meanings": [
+    "friend"
+   ],
+   "on": [
+    "ユウ"
+   ],
+   "kun": [
+    "とも"
+   ],
+   "examples": [
+    {
+     "jp": "友達",
+     "kana": "ともだち",
+     "en": "friend"
+    }
+   ],
+   "unit": 6,
+   "seq": 67
+  },
+  {
+   "id": "k:目",
+   "char": "目",
+   "meanings": [
+    "eye"
+   ],
+   "on": [
+    "モク"
+   ],
+   "kun": [
+    "め"
+   ],
+   "examples": [
+    {
+     "jp": "目",
+     "kana": "め",
+     "en": "eye"
+    }
+   ],
+   "unit": 8,
+   "seq": 68
+  },
+  {
+   "id": "k:口",
+   "char": "口",
+   "meanings": [
+    "mouth"
+   ],
+   "on": [
+    "コウ"
+   ],
+   "kun": [
+    "くち"
+   ],
+   "examples": [
+    {
+     "jp": "口",
+     "kana": "くち",
+     "en": "mouth"
+    }
+   ],
+   "unit": 8,
+   "seq": 69
+  },
+  {
+   "id": "k:耳",
+   "char": "耳",
+   "meanings": [
+    "ear"
+   ],
+   "on": [
+    "ジ"
+   ],
+   "kun": [
+    "みみ"
+   ],
+   "examples": [
+    {
+     "jp": "耳",
+     "kana": "みみ",
+     "en": "ear"
+    }
+   ],
+   "unit": 8,
+   "seq": 70
+  },
+  {
+   "id": "k:手",
+   "char": "手",
+   "meanings": [
+    "hand"
+   ],
+   "on": [
+    "シュ"
+   ],
+   "kun": [
+    "て"
+   ],
+   "examples": [
+    {
+     "jp": "手",
+     "kana": "て",
+     "en": "hand"
+    }
+   ],
+   "unit": 8,
+   "seq": 71
+  },
+  {
+   "id": "k:足",
+   "char": "足",
+   "meanings": [
+    "foot",
+    "leg",
+    "to add"
+   ],
+   "on": [
+    "ソク"
+   ],
+   "kun": [
+    "あし"
+   ],
+   "examples": [
+    {
+     "jp": "足",
+     "kana": "あし",
+     "en": "foot"
+    }
+   ],
+   "unit": 8,
+   "seq": 72
+  },
+  {
+   "id": "k:体",
+   "char": "体",
+   "meanings": [
+    "body"
+   ],
+   "on": [
+    "タイ"
+   ],
+   "kun": [
+    "からだ"
+   ],
+   "examples": [
+    {
+     "jp": "体",
+     "kana": "からだ",
+     "en": "body"
+    }
+   ],
+   "unit": 8,
+   "seq": 73
+  },
+  {
+   "id": "k:山",
+   "char": "山",
+   "meanings": [
+    "mountain"
+   ],
+   "on": [
+    "サン"
+   ],
+   "kun": [
+    "やま"
+   ],
+   "examples": [
+    {
+     "jp": "山",
+     "kana": "やま",
+     "en": "mountain"
+    },
+    {
+     "jp": "富士山",
+     "kana": "ふじさん",
+     "en": "Mt. Fuji"
+    }
+   ],
+   "unit": 7,
+   "seq": 74
+  },
+  {
+   "id": "k:川",
+   "char": "川",
+   "meanings": [
+    "river"
+   ],
+   "on": [
+    "セン"
+   ],
+   "kun": [
+    "かわ"
+   ],
+   "examples": [
+    {
+     "jp": "川",
+     "kana": "かわ",
+     "en": "river"
+    }
+   ],
+   "unit": 7,
+   "seq": 75
+  },
+  {
+   "id": "k:田",
+   "char": "田",
+   "meanings": [
+    "rice field"
+   ],
+   "on": [
+    "デン"
+   ],
+   "kun": [
+    "た"
+   ],
+   "examples": [
+    {
+     "jp": "田んぼ",
+     "kana": "たんぼ",
+     "en": "rice field"
+    }
+   ],
+   "unit": 7,
+   "seq": 76
+  },
+  {
+   "id": "k:天",
+   "char": "天",
+   "meanings": [
+    "heaven",
+    "sky"
+   ],
+   "on": [
+    "テン"
+   ],
+   "kun": [
+    "あま"
+   ],
+   "examples": [
+    {
+     "jp": "天気",
+     "kana": "てんき",
+     "en": "weather"
+    }
+   ],
+   "unit": 7,
+   "seq": 77
+  },
+  {
+   "id": "k:気",
+   "char": "気",
+   "meanings": [
+    "spirit",
+    "energy"
+   ],
+   "on": [
+    "キ",
+    "ケ"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "元気",
+     "kana": "げんき",
+     "en": "well"
+    },
+    {
+     "jp": "天気",
+     "kana": "てんき",
+     "en": "weather"
+    }
+   ],
+   "unit": 7,
+   "seq": 78
+  },
+  {
+   "id": "k:空",
+   "char": "空",
+   "meanings": [
+    "sky",
+    "empty"
+   ],
+   "on": [
+    "クウ"
+   ],
+   "kun": [
+    "そら",
+    "あ"
+   ],
+   "examples": [
+    {
+     "jp": "空",
+     "kana": "そら",
+     "en": "sky"
+    },
+    {
+     "jp": "空気",
+     "kana": "くうき",
+     "en": "air"
+    }
+   ],
+   "unit": 7,
+   "seq": 79
+  },
+  {
+   "id": "k:雨",
+   "char": "雨",
+   "meanings": [
+    "rain"
+   ],
+   "on": [
+    "ウ"
+   ],
+   "kun": [
+    "あめ"
+   ],
+   "examples": [
+    {
+     "jp": "雨",
+     "kana": "あめ",
+     "en": "rain"
+    }
+   ],
+   "unit": 7,
+   "seq": 80
+  },
+  {
+   "id": "k:花",
+   "char": "花",
+   "meanings": [
+    "flower"
+   ],
+   "on": [
+    "カ"
+   ],
+   "kun": [
+    "はな"
+   ],
+   "examples": [
+    {
+     "jp": "花",
+     "kana": "はな",
+     "en": "flower"
+    }
+   ],
+   "unit": 7,
+   "seq": 81
+  },
+  {
+   "id": "k:車",
+   "char": "車",
+   "meanings": [
+    "car",
+    "vehicle"
+   ],
+   "on": [
+    "シャ"
+   ],
+   "kun": [
+    "くるま"
+   ],
+   "examples": [
+    {
+     "jp": "車",
+     "kana": "くるま",
+     "en": "car"
+    },
+    {
+     "jp": "電車",
+     "kana": "でんしゃ",
+     "en": "train"
+    }
+   ],
+   "unit": 2,
+   "seq": 82
+  },
+  {
+   "id": "k:電",
+   "char": "電",
+   "meanings": [
+    "electricity"
+   ],
+   "on": [
+    "デン"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "電車",
+     "kana": "でんしゃ",
+     "en": "train"
+    },
+    {
+     "jp": "電話",
+     "kana": "でんわ",
+     "en": "telephone"
+    }
+   ],
+   "unit": 2,
+   "seq": 83
+  },
+  {
+   "id": "k:駅",
+   "char": "駅",
+   "meanings": [
+    "station"
+   ],
+   "on": [
+    "エキ"
+   ],
+   "kun": [],
+   "examples": [
+    {
+     "jp": "駅",
+     "kana": "えき",
+     "en": "station"
+    }
+   ],
+   "unit": 2,
+   "seq": 84
+  },
+  {
+   "id": "k:社",
+   "char": "社",
+   "meanings": [
+    "company",
+    "shrine"
+   ],
+   "on": [
+    "シャ"
+   ],
+   "kun": [
+    "やしろ"
+   ],
+   "examples": [
+    {
+     "jp": "会社",
+     "kana": "かいしゃ",
+     "en": "company"
+    },
+    {
+     "jp": "社会",
+     "kana": "しゃかい",
+     "en": "society"
+    }
+   ],
+   "unit": 7,
+   "seq": 85
+  },
+  {
+   "id": "k:会",
+   "char": "会",
+   "meanings": [
+    "meeting",
+    "to meet"
+   ],
+   "on": [
+    "カイ"
+   ],
+   "kun": [
+    "あ"
+   ],
+   "examples": [
+    {
+     "jp": "会う",
+     "kana": "あう",
+     "en": "to meet"
+    },
+    {
+     "jp": "会社",
+     "kana": "かいしゃ",
+     "en": "company"
+    }
+   ],
+   "unit": 7,
+   "seq": 86
+  },
+  {
+   "id": "k:店",
+   "char": "店",
+   "meanings": [
+    "shop"
+   ],
+   "on": [
+    "テン"
+   ],
+   "kun": [
+    "みせ"
+   ],
+   "examples": [
+    {
+     "jp": "店",
+     "kana": "みせ",
+     "en": "shop"
+    }
+   ],
+   "unit": 4,
+   "seq": 87
+  },
+  {
+   "id": "k:行",
+   "char": "行",
+   "meanings": [
+    "to go"
+   ],
+   "on": [
+    "コウ"
+   ],
+   "kun": [
+    "い",
+    "おこな"
+   ],
+   "examples": [
+    {
+     "jp": "行く",
+     "kana": "いく",
+     "en": "to go"
+    },
+    {
+     "jp": "銀行",
+     "kana": "ぎんこう",
+     "en": "bank"
+    }
+   ],
+   "unit": 2,
+   "seq": 88
+  },
+  {
+   "id": "k:来",
+   "char": "来",
+   "meanings": [
+    "to come"
+   ],
+   "on": [
+    "ライ"
+   ],
+   "kun": [
+    "く"
+   ],
+   "examples": [
+    {
+     "jp": "来る",
+     "kana": "くる",
+     "en": "to come"
+    },
+    {
+     "jp": "来年",
+     "kana": "らいねん",
+     "en": "next year"
+    }
+   ],
+   "unit": 2,
+   "seq": 89
+  },
+  {
+   "id": "k:出",
+   "char": "出",
+   "meanings": [
+    "to exit",
+    "to put out"
+   ],
+   "on": [
+    "シュツ"
+   ],
+   "kun": [
+    "で",
+    "だ"
+   ],
+   "examples": [
+    {
+     "jp": "出る",
+     "kana": "でる",
+     "en": "to leave"
+    },
+    {
+     "jp": "出口",
+     "kana": "でぐち",
+     "en": "exit"
+    }
+   ],
+   "unit": 6,
+   "seq": 90
+  },
+  {
+   "id": "k:入",
+   "char": "入",
+   "meanings": [
+    "to enter"
+   ],
+   "on": [
+    "ニュウ"
+   ],
+   "kun": [
+    "はい",
+    "い"
+   ],
+   "examples": [
+    {
+     "jp": "入る",
+     "kana": "はいる",
+     "en": "to enter"
+    },
+    {
+     "jp": "入口",
+     "kana": "いりぐち",
+     "en": "entrance"
+    }
+   ],
+   "unit": 6,
+   "seq": 91
+  },
+  {
+   "id": "k:立",
+   "char": "立",
+   "meanings": [
+    "to stand"
+   ],
+   "on": [
+    "リツ"
+   ],
+   "kun": [
+    "た"
+   ],
+   "examples": [
+    {
+     "jp": "立つ",
+     "kana": "たつ",
+     "en": "to stand"
+    }
+   ],
+   "unit": 8,
+   "seq": 92
+  },
+  {
+   "id": "k:休",
+   "char": "休",
+   "meanings": [
+    "to rest"
+   ],
+   "on": [
+    "キュウ"
+   ],
+   "kun": [
+    "やす"
+   ],
+   "examples": [
+    {
+     "jp": "休む",
+     "kana": "やすむ",
+     "en": "to rest"
+    },
+    {
+     "jp": "休み",
+     "kana": "やすみ",
+     "en": "holiday"
+    }
+   ],
+   "unit": 8,
+   "seq": 93
+  },
+  {
+   "id": "k:見",
+   "char": "見",
+   "meanings": [
+    "to see"
+   ],
+   "on": [
+    "ケン"
+   ],
+   "kun": [
+    "み"
+   ],
+   "examples": [
+    {
+     "jp": "見る",
+     "kana": "みる",
+     "en": "to see"
+    }
+   ],
+   "unit": 5,
+   "seq": 94
+  },
+  {
+   "id": "k:聞",
+   "char": "聞",
+   "meanings": [
+    "to hear",
+    "to ask"
+   ],
+   "on": [
+    "ブン"
+   ],
+   "kun": [
+    "き"
+   ],
+   "examples": [
+    {
+     "jp": "聞く",
+     "kana": "きく",
+     "en": "to listen"
+    }
+   ],
+   "unit": 5,
+   "seq": 95
+  },
+  {
+   "id": "k:読",
+   "char": "読",
+   "meanings": [
+    "to read"
+   ],
+   "on": [
+    "ドク"
+   ],
+   "kun": [
+    "よ"
+   ],
+   "examples": [
+    {
+     "jp": "読む",
+     "kana": "よむ",
+     "en": "to read"
+    }
+   ],
+   "unit": 5,
+   "seq": 96
+  },
+  {
+   "id": "k:書",
+   "char": "書",
+   "meanings": [
+    "to write"
+   ],
+   "on": [
+    "ショ"
+   ],
+   "kun": [
+    "か"
+   ],
+   "examples": [
+    {
+     "jp": "書く",
+     "kana": "かく",
+     "en": "to write"
+    },
+    {
+     "jp": "辞書",
+     "kana": "じしょ",
+     "en": "dictionary"
+    }
+   ],
+   "unit": 5,
+   "seq": 97
+  },
+  {
+   "id": "k:話",
+   "char": "話",
+   "meanings": [
+    "to speak",
+    "story"
+   ],
+   "on": [
+    "ワ"
+   ],
+   "kun": [
+    "はな",
+    "はなし"
+   ],
+   "examples": [
+    {
+     "jp": "話す",
+     "kana": "はなす",
+     "en": "to speak"
+    },
+    {
+     "jp": "電話",
+     "kana": "でんわ",
+     "en": "telephone"
+    }
+   ],
+   "unit": 5,
+   "seq": 98
+  },
+  {
+   "id": "k:言",
+   "char": "言",
+   "meanings": [
+    "to say"
+   ],
+   "on": [
+    "ゲン"
+   ],
+   "kun": [
+    "い",
+    "こと"
+   ],
+   "examples": [
+    {
+     "jp": "言葉",
+     "kana": "ことば",
+     "en": "word"
+    }
+   ],
+   "unit": 5,
+   "seq": 99
+  },
+  {
+   "id": "k:食",
+   "char": "食",
+   "meanings": [
+    "to eat"
+   ],
+   "on": [
+    "ショク"
+   ],
+   "kun": [
+    "た"
+   ],
+   "examples": [
+    {
+     "jp": "食べる",
+     "kana": "たべる",
+     "en": "to eat"
+    },
+    {
+     "jp": "食べ物",
+     "kana": "たべもの",
+     "en": "food"
+    }
+   ],
+   "unit": 3,
+   "seq": 100
+  },
+  {
+   "id": "k:飲",
+   "char": "飲",
+   "meanings": [
+    "to drink"
+   ],
+   "on": [
+    "イン"
+   ],
+   "kun": [
+    "の"
+   ],
+   "examples": [
+    {
+     "jp": "飲む",
+     "kana": "のむ",
+     "en": "to drink"
+    },
+    {
+     "jp": "飲み物",
+     "kana": "のみもの",
+     "en": "drink"
+    }
+   ],
+   "unit": 3,
+   "seq": 101
+  },
+  {
+   "id": "k:買",
+   "char": "買",
+   "meanings": [
+    "to buy"
+   ],
+   "on": [
+    "バイ"
+   ],
+   "kun": [
+    "か"
+   ],
+   "examples": [
+    {
+     "jp": "買う",
+     "kana": "かう",
+     "en": "to buy"
+    }
+   ],
+   "unit": 3,
+   "seq": 102
+  },
+  {
+   "id": "k:文",
+   "char": "文",
+   "meanings": [
+    "sentence",
+    "writing"
+   ],
+   "on": [
+    "ブン"
+   ],
+   "kun": [
+    "ふみ"
+   ],
+   "examples": [
+    {
+     "jp": "文字",
+     "kana": "もじ",
+     "en": "character"
+    },
+    {
+     "jp": "作文",
+     "kana": "さくぶん",
+     "en": "composition"
+    }
+   ],
+   "unit": 5,
+   "seq": 103
+  },
+  {
+   "id": "k:字",
+   "char": "字",
+   "meanings": [
+    "character",
+    "letter"
+   ],
+   "on": [
+    "ジ"
+   ],
+   "kun": [
+    "あざ"
+   ],
+   "examples": [
+    {
+     "jp": "漢字",
+     "kana": "かんじ",
+     "en": "kanji"
+    },
+    {
+     "jp": "文字",
+     "kana": "もじ",
+     "en": "character"
+    }
+   ],
+   "unit": 5,
+   "seq": 104
+  },
+  {
+   "id": "k:本",
+   "char": "本",
+   "meanings": [
+    "book",
+    "origin"
+   ],
+   "on": [
+    "ホン"
+   ],
+   "kun": [
+    "もと"
+   ],
+   "examples": [
+    {
+     "jp": "本",
+     "kana": "ほん",
+     "en": "book"
+    },
+    {
+     "jp": "日本",
+     "kana": "にほん",
+     "en": "Japan"
+    }
+   ],
+   "unit": 4,
+   "seq": 105
+  },
+  {
+   "id": "k:白",
+   "char": "白",
+   "meanings": [
+    "white"
+   ],
+   "on": [
+    "ハク"
+   ],
+   "kun": [
+    "しろ"
+   ],
+   "examples": [
+    {
+     "jp": "白い",
+     "kana": "しろい",
+     "en": "white"
+    }
+   ],
+   "unit": 4,
+   "seq": 106
+  },
+  {
+   "id": "k:赤",
+   "char": "赤",
+   "meanings": [
+    "red"
+   ],
+   "on": [
+    "セキ"
+   ],
+   "kun": [
+    "あか"
+   ],
+   "examples": [
+    {
+     "jp": "赤い",
+     "kana": "あかい",
+     "en": "red"
+    }
+   ],
+   "unit": 4,
+   "seq": 107
+  },
+  {
+   "id": "k:青",
+   "char": "青",
+   "meanings": [
+    "blue"
+   ],
+   "on": [
+    "セイ"
+   ],
+   "kun": [
+    "あお"
+   ],
+   "examples": [
+    {
+     "jp": "青い",
+     "kana": "あおい",
+     "en": "blue"
+    }
+   ],
+   "unit": 4,
+   "seq": 108
+  },
+  {
+   "id": "k:高",
+   "char": "高",
+   "meanings": [
+    "tall",
+    "expensive"
+   ],
+   "on": [
+    "コウ"
+   ],
+   "kun": [
+    "たか"
+   ],
+   "examples": [
+    {
+     "jp": "高い",
+     "kana": "たかい",
+     "en": "expensive"
+    }
+   ],
+   "unit": 3,
+   "seq": 109
+  },
+  {
+   "id": "k:安",
+   "char": "安",
+   "meanings": [
+    "cheap",
+    "peaceful"
+   ],
+   "on": [
+    "アン"
+   ],
+   "kun": [
+    "やす"
+   ],
+   "examples": [
+    {
+     "jp": "安い",
+     "kana": "やすい",
+     "en": "cheap"
+    }
+   ],
+   "unit": 3,
+   "seq": 110
+  },
+  {
+   "id": "k:新",
+   "char": "新",
+   "meanings": [
+    "new"
+   ],
+   "on": [
+    "シン"
+   ],
+   "kun": [
+    "あたら"
+   ],
+   "examples": [
+    {
+     "jp": "新しい",
+     "kana": "あたらしい",
+     "en": "new"
+    },
+    {
+     "jp": "新聞",
+     "kana": "しんぶん",
+     "en": "newspaper"
+    }
+   ],
+   "unit": 4,
+   "seq": 111
+  },
+  {
+   "id": "k:古",
+   "char": "古",
+   "meanings": [
+    "old"
+   ],
+   "on": [
+    "コ"
+   ],
+   "kun": [
+    "ふる"
+   ],
+   "examples": [
+    {
+     "jp": "古い",
+     "kana": "ふるい",
+     "en": "old"
+    }
+   ],
+   "unit": 4,
+   "seq": 112
+  },
+  {
+   "id": "k:長",
+   "char": "長",
+   "meanings": [
+    "long",
+    "chief"
+   ],
+   "on": [
+    "チョウ"
+   ],
+   "kun": [
+    "なが"
+   ],
+   "examples": [
+    {
+     "jp": "長い",
+     "kana": "ながい",
+     "en": "long"
+    }
+   ],
+   "unit": 4,
+   "seq": 113
+  },
+  {
+   "id": "k:多",
+   "char": "多",
+   "meanings": [
+    "many"
+   ],
+   "on": [
+    "タ"
+   ],
+   "kun": [
+    "おお"
+   ],
+   "examples": [
+    {
+     "jp": "多い",
+     "kana": "おおい",
+     "en": "many"
+    }
+   ],
+   "unit": 4,
+   "seq": 114
+  },
+  {
+   "id": "k:少",
+   "char": "少",
+   "meanings": [
+    "few",
+    "little"
+   ],
+   "on": [
+    "ショウ"
+   ],
+   "kun": [
+    "すく",
+    "すこ"
+   ],
+   "examples": [
+    {
+     "jp": "少し",
+     "kana": "すこし",
+     "en": "a little"
+    },
+    {
+     "jp": "少ない",
+     "kana": "すくない",
+     "en": "few"
+    }
+   ],
+   "unit": 4,
+   "seq": 115
+  },
+  {
+   "id": "k:早",
+   "char": "早",
+   "meanings": [
+    "early"
+   ],
+   "on": [
+    "ソウ"
+   ],
+   "kun": [
+    "はや"
+   ],
+   "examples": [
+    {
+     "jp": "早い",
+     "kana": "はやい",
+     "en": "early"
+    }
+   ],
+   "unit": 7,
+   "seq": 116
+  }
+ ]
+}
